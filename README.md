@@ -1,6 +1,6 @@
 # Air Frying
 
-**What goes in which drawer?** Air Frying gives your AI assistant a workflow for planning a whole air-fryer meal. It starts with what to put in each drawer, then works out the settings, timing, and when to check the food.
+**Finally. The agent can cook for you.** Air Frying gives your AI assistant a workflow for planning a whole air-fryer meal. It starts with what to put in each drawer, then works out the settings, timing, and when to check the food.
 
 [Project website](https://ethansk.github.io/air-frying/) · [My Fryer Setup](https://ethansk.github.io/air-frying/#setup) · [Read the skill](skills/air-frying/SKILL.md) · [Download ZIP](https://github.com/EthanSK/air-frying/archive/refs/heads/main.zip)
 
