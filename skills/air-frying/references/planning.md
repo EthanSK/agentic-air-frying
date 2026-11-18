@@ -2,12 +2,22 @@
 
 ## Two drawers, one load
 
-**Prompt:** “I have chilled firm tofu, fresh broccoli and frozen potato wedges. Can I put everything in my two-drawer fryer and leave it alone until dinner?”
+**Prompt:** “Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potatoes and jammy tomatoes. Tell me what goes in each drawer and help both finish together.”
 
-- Check the tofu and wedge packaging and ask about the model only if its layout, capacity, or finish-together function matters. Use the frozen wedges' own directions.
-- Put the tofu and broccoli in drawer 1 if their cooking instructions and piece sizes allow the same program. Keep them in a loose single layer and give each room. If the broccoli needs much less time, give it a separate batch or side method rather than baking that mismatch into the plan.
-- Put the wedges in drawer 2 and set it independently. Use the model's finish-together option if available. If the wedge packet calls for shaking, say so and give a no-shake alternative only if one is appropriate.
-- Explain any differences in when to check the two drawers. Numbers depend on the exact products, portions, and fryer.
+- Check [recent orders](connected-setup.md#find-recent-orders) for the salmon and other foods. Use the identified products and the model’s instructions to choose settings. Confirm frozen or chilled state if it changes the plan and the order doesn't establish it.
+- Give the potatoes their own program so they can brown. Put the tomatoes beside them only if the settings fit and the juices can stay away from the potatoes.
+- Put the salmon and asparagus in the other drawer if they can finish on the same program. Keep space around the fish. State any necessary adjustment if the asparagus is especially thin or the salmon needs more time. Verify that the fish is cooked through before serving.
+- Sync the finish times if the model supports it. Use the appliance’s actual drawer labels.
+
+## Chicken, fries and jammy tomatoes
+
+**Prompt:** “I’ve got Greek-style chicken thighs, frozen fries and cherry tomatoes. I want crisp fries and soft, jammy tomatoes. Can I load both drawers once and have dinner finish together? Tell me what goes where first.”
+
+- Check the chicken and fries packaging. Give the chicken its own drawer, such as the bottom drawer on a stacked model. Keep space around the thighs and follow the appropriate end check for thoroughly cooked chicken.
+- If the fries and tomatoes can share a program, arrange them apart in the top drawer so the tomato juices stay away from the fries. A small dish can contain the juices if the manual permits it and there is room for airflow. If the times differ too much or the basket is crowded, give the tomatoes a separate batch or another cooking method.
+- Use the appliance’s finish-together feature if supported. Include any shaking or turning the packet requires and give a simpler alternative if one is appropriate. Base the settings on the actual products, portions and fryer.
+
+For cod goujons with baby potatoes and cherry tomatoes, check the goujon packet first and give the potatoes a head start if needed.
 
 ## One drawer or incompatible settings
 

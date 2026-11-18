@@ -2,17 +2,18 @@
 
 **What goes in which drawer?** Air Frying gives your AI assistant a workflow for planning a whole air-fryer meal. It starts with what to put in each drawer, then works out the settings, timing, and when to check the food.
 
-[Project website](https://ethansk.github.io/air-frying/) · [Read the skill](skills/air-frying/SKILL.md) · [Download ZIP](https://github.com/EthanSK/air-frying/archive/refs/heads/main.zip)
+[Project website](https://ethansk.github.io/air-frying/) · [Ethan’s setup](https://ethansk.github.io/air-frying/setup.html) · [Read the skill](skills/air-frying/SKILL.md) · [Download ZIP](https://github.com/EthanSK/air-frying/archive/refs/heads/main.zip)
 
 ## What It Does
 
 - Plans meals for a single basket or two independent drawers.
+- Looks up recent Zapp or Zoom by Ocado orders through iPhone Mirroring when you have a signed-in app and an assistant with Mac access.
 - Aims for one load with no mid-cook steps when the food and appliance directions allow it.
 - Checks the food’s directions and uses your model’s finish-together feature when available.
 - Explains when a second batch or a different cooking method will work better.
 - Uses your cooking feedback to suggest a concrete adjustment for next time.
 
-The skill is a set of instructions for an AI assistant. You operate the appliance yourself. Any basic air fryer works for planning, including models without Wi-Fi or an app.
+Any basic air fryer works for planning. For the COSORI Pro Smart setup, an assistant with Mac access can also prepare an authorised program in VeSync and verify the status after you press Start.
 
 ## Install
 
@@ -29,9 +30,15 @@ For example, a user-wide Codex installation should contain `~/.agents/skills/air
 
 ## Try It
 
-> I have chilled firm tofu, fresh broccoli and frozen potato wedges. Plan dinner for my two-drawer air fryer. I’d like to load both drawers once and have everything finish together. Tell me what goes where first.
+> Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potatoes and jammy tomatoes. Tell me what goes in each drawer and help both finish together.
 
-Share the model and packet directions when you have them. That helps your assistant use the right functions and distinguish the packet instructions from its own estimates.
+If order lookup is unavailable, share the food, model and packet directions when you have them. The skill can use those details to plan the cook.
+
+## Replicate Ethan’s Setup
+
+The [illustrated setup guide](https://ethansk.github.io/air-frying/setup.html) covers the stacked COSORI Turbo Tower Pro Smart, VeSync pairing, iPhone Mirroring, a first cook and the foil-and-Blu-Tack Fingerbot experiment. [Ethan’s common orders](https://ethansk.github.io/air-frying/setup.html#common-orders) links public shopping pages for the meal examples.
+
+The optional [connected workflow](skills/air-frying/references/connected-setup.md) uses your own signed-in apps. COSORI calls for Start at the appliance. Automatic Start with the experimental Fingerbot assembly remains unverified.
 
 ## Updates
 

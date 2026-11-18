@@ -1,11 +1,15 @@
 ---
 name: air-frying
-description: Plan meals for single- and dual-drawer air fryers. Use when asked what goes in each drawer, how to cook foods together, how to make both drawers finish together, or how to adjust a previous air-fry plan for better texture.
+description: Plan single- or dual-drawer air-fryer meals from recent grocery orders or ingredients on hand. Use to plan drawer placement, sync settings, check Zapp or Zoom by Ocado through iPhone Mirroring, or prepare and monitor an authorised COSORI cook in VeSync.
 ---
 
 # Air Frying
 
 Lead with what goes in each drawer. Plan for one load with no mid-cook additions, turning, or shaking when the food directions and the desired result allow it. Keep the user's involvement low by making safe, clearly stated assumptions and asking only for details that materially change the plan.
+
+## Start with the food the cook has
+
+For a new dinner or stock question, use the cook’s authorised recent grocery orders and any available meal or leftovers notes before asking them to list ingredients. If their setup has iPhone Mirroring, check their own signed-in Zapp or Zoom by Ocado app as described in [connected setup](references/connected-setup.md). Treat purchases as clues to what may be left. If lookup is unavailable, use the receipt, package or ingredients the cook supplies.
 
 ## Plan the load
 
@@ -19,9 +23,10 @@ See [planning examples](references/planning.md) for shared drawers, single-drawe
 
 ## Give a short answer the cook can follow
 
-- Start with **Drawer 1** and **Drawer 2**, or **Basket** for a single drawer. Give the contents, then the settings for each active drawer. Mark an unused drawer if the user might otherwise enable it.
+- Start with the drawer names the cook uses, such as **Top Drawer** and **Bottom Drawer** or **Drawer 1** and **Drawer 2**. Use **Basket** for a single drawer. Give the contents, then the settings for each active drawer. Mark an unused drawer if the user might otherwise enable it.
 - Add the finish-together setting or any necessary step and the end check. Say what directions you checked and flag any material estimate. When asked to repeat the plan, repeat the placement alone unless settings are requested or a necessary step would be missed.
-- Give a manual cooking plan and leave appliance controls to the cook. Respond to timing or browning questions with guidance based on the actual food and its current state. Treat each outcome the cook reports as evidence about that load and model.
+- Give a manual plan for any supported layout. When the cook authorises setup and confirms food is loaded, see [connected setup](references/connected-setup.md) for preparing and monitoring a COSORI program through VeSync. The cook presses Start/Pause at the panel.
+- Answer timing or browning questions using the actual food and its current state. Treat each reported outcome as evidence about that load and model.
 
 ## Weekly public updates
 
