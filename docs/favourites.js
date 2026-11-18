@@ -13,44 +13,37 @@ function orderLabel(count) {
   return `${count} ${count === 1 ? 'order' : 'orders'}`
 }
 
-function makeCard(item, compact, photoCredits) {
+function makeCard(item, compact) {
   const card = element('li', '', 'catalog-card')
-  const photographer = photoCredits[item.packPhoto]
-  const body = element('div', '', 'catalog-card-body')
-  if (photographer) {
-    const image = element('img')
-    image.src = `./assets/packs/${item.packPhoto}.jpg`
-    image.alt = `Pack photo of ${item.name}`
+  const link = element('a', '', 'catalog-product-link')
+  const action = item.direct ? `View on ${shops[item.shop]}` : `Search ${shops[item.shop]}`
+  link.href = item.url
+  link.setAttribute('aria-label', `${action} for ${item.name}, ${orderLabel(item.count)}`)
+
+  if (item.previewUrl) {
+    const image = element('img', '', 'catalog-product-preview')
+    image.alt = ''
     image.loading = 'lazy'
-    image.width = 400
-    image.height = 400
-    body.append(image)
+    image.decoding = 'async'
+    image.referrerPolicy = 'no-referrer'
+    image.addEventListener('error', () => image.remove(), { once: true })
+    image.src = item.previewUrl
+    link.append(image)
   }
 
+  const body = element('div', '', 'catalog-card-body')
   const meta = element('p', shops[item.shop], 'catalog-card-meta')
   meta.append(element('span', orderLabel(item.count), 'order-count'))
   const title = element(compact ? 'h3' : 'h2', item.name)
   body.append(meta, title)
 
   const footer = element('div', '', 'catalog-card-footer')
-  const link = element('a', item.direct ? `View on ${shops[item.shop]}` : `Search ${shops[item.shop]}`)
-  link.href = item.url
-  link.setAttribute('aria-label', `${link.textContent} for ${item.name}`)
-  footer.append(link)
+  footer.append(element('span', action, 'catalog-card-action'))
   if (!compact && item.favourite) footer.append(element('span', 'Favourite'))
   body.append(footer)
 
-  if (photographer) {
-    const credits = element('p', 'Photo by ', 'pack-credit')
-    const source = element('a', `${photographer} / Open Food Facts`)
-    source.href = `https://world.openfoodfacts.org/product/${item.packPhoto}`
-    const license = element('a', 'CC BY-SA 3.0')
-    license.href = 'https://creativecommons.org/licenses/by-sa/3.0/'
-    credits.append(source, ' · ', license)
-    body.append(credits)
-  }
-
-  card.append(body)
+  link.append(body)
+  card.append(link)
   return card
 }
 
@@ -73,7 +66,7 @@ function renderList(data, items) {
       (!favouritesOnly.checked || item.favourite) &&
       item.name.toLowerCase().includes(query)
     )
-    grid.replaceChildren(...matches.map(item => makeCard(item, false, data.photoCredits)))
+    grid.replaceChildren(...matches.map(item => makeCard(item, false)))
     status.textContent = matches.length
       ? `${matches.length} ${matches.length === 1 ? 'product' : 'products'}`
       : 'No matching products.'
@@ -86,12 +79,12 @@ function renderList(data, items) {
   render()
 }
 
-function renderGallery(data, items) {
+function renderGallery(items) {
   const gallery = preview.querySelector('.catalog-gallery')
   const toolbar = preview.querySelector('.gallery-toolbar')
   const [previous, next] = toolbar.querySelectorAll('button')
   const galleryItems = [...items].sort((a, b) => Number(!!b.airFryer) - Number(!!a.airFryer))
-  gallery.replaceChildren(...galleryItems.map(item => makeCard(item, true, data.photoCredits)))
+  gallery.replaceChildren(...galleryItems.map(item => makeCard(item, true)))
   toolbar.querySelector('.gallery-total').textContent = `${galleryItems.length} products`
   toolbar.hidden = galleryItems.length === 0
 
@@ -122,7 +115,7 @@ try {
   const data = await response.json()
   const items = [...data.items].sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, 'en-GB'))
   if (list) renderList(data, items)
-  if (preview) renderGallery(data, items)
+  if (preview) renderGallery(items)
 } catch {
   const status = list?.querySelector('.catalog-status') ?? preview?.querySelector('.gallery-status')
   if (status) status.textContent = 'Couldn’t load the catalogue. Reload to try again.'
