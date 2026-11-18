@@ -2,7 +2,7 @@
 
 **What goes in which drawer?** Air Frying gives your AI assistant a workflow for planning a whole air-fryer meal. It starts with what to put in each drawer, then works out the settings, timing, and when to check the food.
 
-[Project website](https://ethansk.github.io/air-frying/) · [Ethan’s setup](https://ethansk.github.io/air-frying/setup.html) · [Read the skill](skills/air-frying/SKILL.md) · [Download ZIP](https://github.com/EthanSK/air-frying/archive/refs/heads/main.zip)
+[Project website](https://ethansk.github.io/air-frying/) · [My Fryer Setup](https://ethansk.github.io/air-frying/#setup) · [Read the skill](skills/air-frying/SKILL.md) · [Download ZIP](https://github.com/EthanSK/air-frying/archive/refs/heads/main.zip)
 
 ## What It Does
 
@@ -30,13 +30,13 @@ For example, a user-wide Codex installation should contain `~/.agents/skills/air
 
 ## Try It
 
-> Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potatoes and jammy tomatoes. Tell me what goes in each drawer and help both finish together.
+> Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potato slices and jammy tomatoes. Tell me what goes in each drawer and help both finish together.
 
 If order lookup is unavailable, share the food, model and packet directions when you have them. The skill can use those details to plan the cook.
 
-## Replicate Ethan’s Setup
+## My Fryer Setup
 
-The [illustrated setup guide](https://ethansk.github.io/air-frying/setup.html) covers the stacked COSORI Turbo Tower Pro Smart, VeSync pairing, iPhone Mirroring, a first cook and the foil-and-Blu-Tack Fingerbot experiment. [Ethan’s common orders](https://ethansk.github.io/air-frying/setup.html#common-orders) links public shopping pages for the meal examples.
+The [illustrated setup guide](https://ethansk.github.io/air-frying/setup.html) covers the stacked COSORI Turbo Tower Pro Smart, VeSync pairing, Codex Computer Use on a Mac, iPhone Mirroring, a first cook and the foil-and-Blu-Tack Fingerbot experiment. [Ethan’s common orders](https://ethansk.github.io/air-frying/setup.html#common-orders) links public shopping pages for the meal examples.
 
 The optional [connected workflow](skills/air-frying/references/connected-setup.md) uses your own signed-in apps. COSORI calls for Start at the appliance. Automatic Start with the experimental Fingerbot assembly remains unverified.
 

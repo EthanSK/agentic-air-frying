@@ -2,7 +2,7 @@
 
 ## Two drawers, one load
 
-**Prompt:** “Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potatoes and jammy tomatoes. Tell me what goes in each drawer and help both finish together.”
+**Prompt:** “Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potato slices and jammy tomatoes. Tell me what goes in each drawer and help both finish together.”
 
 - Check [recent orders](connected-setup.md#find-recent-orders) for the salmon and other foods. Use the identified products and the model’s instructions to choose settings. Confirm frozen or chilled state if it changes the plan and the order doesn't establish it.
 - Give the potatoes their own program so they can brown. Put the tomatoes beside them only if the settings fit and the juices can stay away from the potatoes.

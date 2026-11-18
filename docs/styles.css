@@ -251,21 +251,19 @@ code {
 .missing { padding-block: 4rem; }
 .missing p { margin-block: 1rem; }
 
-.setup-link {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1.1rem 2rem;
+.setup-summary {
   padding: clamp(1.3rem, 3.3vw, 3rem);
   margin-bottom: clamp(2.5rem, 5vw, 4.5rem);
   border-left: .35rem solid var(--paprika);
   background: #e8dff1;
 }
 
-.setup-link h2 { font-size: clamp(2.35rem, 4vw, 3.65rem); }
-.setup-link p { max-width: 49ch; margin-top: .65rem; color: var(--muted); }
-.setup-link .actions { margin: 0; }
+.setup-summary-heading { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; }
+.setup-summary-heading .actions { margin: 0; }
+.setup-summary-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem; margin-top: 1.6rem; }
+.setup-summary-card img { display: block; width: 100%; height: auto; border-radius: .36rem; }
+.setup-summary-card h3 { margin-top: .8rem; }
+.setup-summary-card p { margin-top: .35rem; color: var(--muted); }
 
 .setup-intro, .setup-step {
   display: grid;
@@ -324,6 +322,9 @@ code {
   .steps { grid-template-columns: 1fr; }
   .steps h3 { display: inline; margin: 0 0 0 .35rem; }
   .steps li p { margin-top: .25rem; }
+  .setup-summary-grid { grid-template-columns: 1fr; }
+  .setup-summary-card { display: grid; grid-template-columns: 26% minmax(0, 1fr); align-items: start; gap: .75rem; }
+  .setup-summary-card h3 { margin-top: 0; }
   .setup-intro, .setup-step, .orders-grid { grid-template-columns: 1fr; }
 }
 

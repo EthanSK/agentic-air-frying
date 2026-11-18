@@ -4,17 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Air Frying — A Cooking Skill for Your AI Assistant</title>
-  <meta name="description" content="Plan dinner from recent grocery orders, choose what goes in each air fryer drawer, and set up a COSORI with VeSync and iPhone Mirroring.">
+  <meta name="description" content="Plan dinner from recent grocery orders and see the COSORI, VeSync, Codex Computer Use and Fingerbot setup.">
   <meta name="theme-color" content="#f0ebfa">
   <link rel="canonical" href="https://ethansk.github.io/air-frying/">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Air Frying — What goes in which drawer?">
   <meta property="og:description" content="Plan what goes in each drawer and help dinner finish together.">
   <meta property="og:url" content="https://ethansk.github.io/air-frying/">
-  <meta property="og:image" content="https://ethansk.github.io/air-frying/assets/salmon-drawers.webp">
-  <meta property="og:image:alt" content="Roast potatoes and cherry tomatoes in the top air fryer drawer, with salmon and asparagus in the bottom drawer.">
+  <meta property="og:image" content="https://ethansk.github.io/air-frying/assets/salmon-potato-slices.webp">
+  <meta property="og:image:alt" content="Round roasted potato slices and cherry tomatoes in the top air fryer drawer, with salmon and asparagus in the bottom drawer.">
   <link rel="icon" href="./assets/icon.png" type="image/png">
-  <link rel="stylesheet" href="./styles.css?v=3">
+  <link rel="stylesheet" href="./styles.css?v=4">
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -22,7 +22,7 @@
     <a class="brand" href="./"><span class="basket-mark" aria-hidden="true"></span> Air Frying</a>
     <nav aria-label="Main">
       <a href="#how-it-works">How It Works</a>
-      <a href="./setup.html">Ethan’s Setup</a>
+      <a href="#setup">My Fryer Setup</a>
       <a href="#install">Install</a>
       <a href="https://github.com/EthanSK/air-frying">GitHub <span aria-hidden="true">↗</span></a>
     </nav>
@@ -42,9 +42,9 @@
       </div>
 
       <figure class="drawer-sheet">
-        <img src="./assets/salmon-drawers.webp" width="960" height="769" alt="Two air fryer drawers on a red worktop. The top drawer holds roast potatoes and cherry tomatoes. The bottom drawer holds salmon and asparagus.">
+        <img src="./assets/salmon-potato-slices.webp" width="960" height="769" alt="Two air fryer drawers on a red worktop. The top drawer holds round roasted potato slices and cherry tomatoes. The bottom drawer holds salmon and asparagus.">
         <figcaption>
-          <span><small>Top drawer</small><strong>Potatoes &amp; tomatoes</strong></span>
+          <span><small>Top drawer</small><strong>Potato slices &amp; tomatoes</strong></span>
           <span><small>Bottom drawer</small><strong>Salmon &amp; asparagus</strong></span>
         </figcaption>
       </figure>
@@ -68,16 +68,38 @@
       </ol>
     </section>
 
-    <aside class="setup-link" aria-label="Ethan’s setup">
-      <div>
-        <h2>Ethan’s Setup</h2>
-        <p>Replicate the stacked COSORI setup, from VeSync and iPhone Mirroring to the foil-tipped Fingerbot experiment.</p>
+    <section id="setup" class="setup-summary" aria-labelledby="setup-title">
+      <div class="setup-summary-heading">
+        <h2 id="setup-title">My Fryer Setup</h2>
+        <div class="actions">
+          <a class="button" href="./setup.html">Full Setup Guide <span aria-hidden="true">→</span></a>
+          <a class="text-link" href="./setup.html#common-orders">Ethan’s Common Orders <span aria-hidden="true">↗</span></a>
+        </div>
       </div>
-      <div class="actions">
-        <a class="button" href="./setup.html">Setup Guide <span aria-hidden="true">→</span></a>
-        <a class="text-link" href="./setup.html#common-orders">Ethan’s Common Orders <span aria-hidden="true">↗</span></a>
+      <div class="setup-summary-grid">
+        <article class="setup-summary-card">
+          <img src="./assets/stacked-fryer.webp" width="780" height="520" loading="lazy" alt="">
+          <div>
+            <h3><a href="./setup.html#fryer">COSORI Turbo Tower Pro Smart</a></h3>
+            <p>The 10.8 L model has two stacked drawers. Set a separate program for each drawer in VeSync and use Sync to finish together.</p>
+          </div>
+        </article>
+        <article class="setup-summary-card">
+          <img src="./assets/order-mirroring.webp" width="780" height="520" loading="lazy" alt="">
+          <div>
+            <h3><a href="./setup.html#computer-use">Codex Computer Use</a></h3>
+            <p>Codex controls apps through the Mac’s graphical interface. It checks Zapp or Zoom orders in iPhone Mirroring and prepares or monitors authorised cooks in VeSync.</p>
+          </div>
+        </article>
+        <article class="setup-summary-card">
+          <img src="./assets/fingerbot-parts.webp" width="780" height="520" loading="lazy" alt="">
+          <div>
+            <h3><a href="./setup.html#fingerbot">MOES Bluetooth Fingerbot</a></h3>
+            <p>The prototype uses a foil tip held on with Blu Tack. Automatic Start is unverified. Press Start/Pause on the fryer for cooking.</p>
+          </div>
+        </article>
       </div>
-    </aside>
+    </section>
 
     <section id="example" class="example" aria-labelledby="example-title">
       <div>
@@ -85,7 +107,7 @@
         <p>Give the potatoes their own program so they have time to brown. Check if the tomatoes can cook alongside them and if the salmon and asparagus can share the other drawer.</p>
       </div>
       <blockquote>
-        <p>Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potatoes and jammy tomatoes. Tell me what goes in each drawer and help both finish together.</p>
+        <p>Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potato slices and jammy tomatoes. Tell me what goes in each drawer and help both finish together.</p>
       </blockquote>
     </section>
 

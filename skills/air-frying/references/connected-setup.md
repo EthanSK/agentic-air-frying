@@ -1,6 +1,6 @@
 # Connected setup
 
-Use the [illustrated public setup guide](https://ethansk.github.io/air-frying/setup.html) for compatible hardware, VeSync pairing, iPhone Mirroring, retailer apps and the optional foil-tipped Fingerbot experiment. The public skill uses whatever Mac and phone controls the host provides. A skill installation does not itself add device access.
+Use the [illustrated public setup guide](https://ethansk.github.io/air-frying/setup.html) for compatible hardware, VeSync pairing, iPhone Mirroring, retailer apps and the optional foil-tipped Fingerbot experiment. For this setup, [enable Codex Computer Use](https://ethansk.github.io/air-frying/setup.html#computer-use) to give the agent access to the Mac apps. If another host provides authorised Mac app controls, use its supported route. A skill installation does not itself add device access.
 
 ## Find recent orders
 
