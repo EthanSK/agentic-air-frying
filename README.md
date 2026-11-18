@@ -30,7 +30,7 @@ For example, a user-wide Codex installation should contain `~/.agents/skills/air
 
 ## Try It
 
-> Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potato slices and jammy tomatoes. Tell me what goes in each drawer and help both finish together.
+> Check my recent Zapp and Zoom orders and plan dinner. Maybe steak with fries, if I have them. Tell me what to put in each drawer and help both finish together.
 
 If order lookup is unavailable, share the food, model and packet directions when you have them. The skill can use those details to plan the cook.
 

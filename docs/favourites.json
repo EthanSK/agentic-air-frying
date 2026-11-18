@@ -8,7 +8,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2276",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "Baby Potatoes 750g",
@@ -17,7 +17,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-4677",
       "direct": true,
-      "photo": "potatoes"
+      "airFryer": true
     },
     {
       "name": "Grounded Chocolate Protein M*lkshake 490ml",
@@ -25,8 +25,7 @@
       "count": 7,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5683",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Natoora Sicilian Datterini Tomatoes 200g",
@@ -35,7 +34,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6573",
       "direct": true,
-      "photo": "tomatoes"
+      "airFryer": true
     },
     {
       "name": "Babycorn 80g",
@@ -44,7 +43,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12501",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "Daily Dose Ginger Hot Shot 60ml",
@@ -52,8 +51,7 @@
       "count": 5,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-1481",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Form Chocolate Peanut Protein Bar 50g",
@@ -61,8 +59,7 @@
       "count": 5,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12938",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Serious Pig Snackalami Classic 30g",
@@ -70,8 +67,7 @@
       "count": 5,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5182",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Birds Eye Chicken Dippers 220g 12pck",
@@ -80,7 +76,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-10698",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "BirdsEye Chicken Nuggets 190g",
@@ -89,7 +85,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6181",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Lemon 1pc",
@@ -97,8 +93,7 @@
       "count": 4,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-1298",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "RE:NOURISH Calm Soup Tomato Basil 500g",
@@ -106,8 +101,7 @@
       "count": 4,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5609",
-      "direct": true,
-      "photo": "tomatoes"
+      "direct": true
     },
     {
       "name": "Tenderstem Broccoli 200g",
@@ -116,7 +110,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-4206",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "The Fresh Fish Shop Wild Caught Scottish Cod Fillets 260g 2pck",
@@ -125,7 +119,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9308",
       "direct": true,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "Cathedral City High Protein Half Fat Cheddar Cheese Slices 150g",
@@ -133,8 +127,7 @@
       "count": 3,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13144",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Heinz Ketchup 460g",
@@ -142,8 +135,7 @@
       "count": 3,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-0068",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "HG Walter Beef Fillet Steak 200g",
@@ -152,7 +144,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13482",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Lindahls Protein Gouda Cheese Slices 125g",
@@ -160,8 +152,7 @@
       "count": 3,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-11973",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "McCain Hash Browns 625g",
@@ -170,7 +161,8 @@
       "favourite": false,
       "url": "https://www.justzapp.com/product/GB-9357",
       "direct": true,
-      "photo": "potatoes"
+      "airFryer": true,
+      "packPhoto": "5010228001869"
     },
     {
       "name": "Olly's Olives Garlic & Basil Juicy Green Olives 50g",
@@ -178,8 +170,7 @@
       "count": 3,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-11907",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Philadelphia Protein Spreadable 165g",
@@ -187,8 +178,7 @@
       "count": 3,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6988",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Plenish Turmeric Vitamin B12 Recovery Shot 60ml",
@@ -196,8 +186,7 @@
       "count": 3,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13220",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Radish 150g",
@@ -205,8 +194,7 @@
       "count": 3,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9430",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Red Bell Pepper 1pc",
@@ -214,8 +202,7 @@
       "count": 3,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2045",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "The Fresh Fish Shop Cod Goujons 350g",
@@ -224,7 +211,7 @@
       "favourite": false,
       "url": "https://www.justzapp.com/search?query=The%20Fresh%20Fish%20Shop%20Cod%20Goujons%20350g",
       "direct": false,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "Avocado Hass 1pc",
@@ -232,8 +219,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-1296",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Baby Gem Lettuce 2pck",
@@ -241,8 +227,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2071",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Baby Rainbow Carrots 200g",
@@ -251,7 +236,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6765",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "Cathedral City High Protein Half Fat Mini Cheddar Snack Cheese 120g (6 x 20g)",
@@ -259,8 +244,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13142",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Clarence Court Burford Brown Eggs Medium 6pck",
@@ -268,8 +252,7 @@
       "count": 2,
       "favourite": false,
       "url": "https://www.justzapp.com/search?query=Clarence%20Court%20Burford%20Brown%20Eggs%20Medium%206pck",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Clarence Court Burford Buff Medium Eggs 10pck",
@@ -277,8 +260,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12790",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Clementines 4pcs",
@@ -286,8 +268,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5417",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Corn on the Cob Vacuum Pack 2pcs",
@@ -296,7 +277,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2272",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "Daylesford Organic Eggs Medium 6pck",
@@ -304,8 +285,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5043",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Griddle Choc-Chip Protein Waffles 200g",
@@ -313,8 +293,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7773",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Griddle Original Protein Waffles 200g",
@@ -322,8 +301,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7772",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Hellmann's Light Squeezy Mayonnaise 430ml",
@@ -331,8 +309,7 @@
       "count": 2,
       "favourite": false,
       "url": "https://www.justzapp.com/search?query=Hellmann%27s%20Light%20Squeezy%20Mayonnaise%20430ml",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "HG Walter Beef Sirloin Steak 250g",
@@ -341,7 +318,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13483",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "HG Walter Beef Steak Burger 155g 2pck",
@@ -350,7 +327,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13471",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Koox Organic Carrot Sticks 210g",
@@ -358,8 +335,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8701",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Leon GFC Chicken Nuggets 300g",
@@ -368,7 +344,7 @@
       "favourite": false,
       "url": "https://www.justzapp.com/search?query=Leon%20GFC%20Chicken%20Nuggets%20300g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Maille Dijon Mustard 215g",
@@ -376,8 +352,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/search?query=Maille%20Dijon%20Mustard%20215g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "McCain Air Fryer Deep Ridge Crinkle Cut Chips 750g",
@@ -386,7 +361,8 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-10696",
       "direct": true,
-      "photo": "potatoes"
+      "airFryer": true,
+      "packPhoto": "5010228006963"
     },
     {
       "name": "Natoora British Roasting Potatoes 1kg",
@@ -395,7 +371,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7850",
       "direct": true,
-      "photo": "potatoes"
+      "airFryer": true
     },
     {
       "name": "Natoora Fresh Italian Thyme 20g",
@@ -403,8 +379,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7312",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Natoora Hummus with Extra Virgin Olive Oil 185g",
@@ -412,8 +387,7 @@
       "count": 2,
       "favourite": false,
       "url": "https://www.justzapp.com/search?query=Natoora%20Hummus%20with%20Extra%20Virgin%20Olive%20Oil%20185g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Pink Himalayan Salt Grinder 90g",
@@ -421,8 +395,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2190",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "RE:NOURISH Restore Soup Pea, Leek & Watercress 500g",
@@ -430,8 +403,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7968",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Sunny & Luna Spinach Gnocchi 350g",
@@ -439,8 +411,7 @@
       "count": 2,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8042",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Arabella Peanuts Salted 150g",
@@ -448,8 +419,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6085",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Arla Protein Chocolate Flavour Pudding 200g",
@@ -457,8 +427,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/arla-protein-chocolate-flavour-pudding-200g-609434011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Asahi 0.0% 330ml 4pck",
@@ -466,8 +435,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6420",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Baby Leeks 200g",
@@ -475,8 +443,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13454",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Barilla Pasta Fusilli Protein Plus 400g",
@@ -484,8 +451,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Barilla%20Pasta%20Fusilli%20Protein%20Plus%20400g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Billy Franks Teriyaki Beef Jerky 30g",
@@ -493,8 +459,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2175",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Biona Organic Falafel Balls 200g",
@@ -503,7 +468,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/search?query=Biona%20Organic%20Falafel%20Balls%20200g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Birra Moretti Zero Alcohol Free Beer 330ml 4pck",
@@ -511,8 +476,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9012",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Bold Bean Co Queen Butter Beans 570g",
@@ -520,8 +484,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12806",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Cook With M&S Peppercorn Sauce 180g",
@@ -529,8 +492,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Cook%20With%20M%26S%20Peppercorn%20Sauce%20180g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "CPRESS Golden Ratio Juice 250ml",
@@ -538,8 +500,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5657",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "CPRESS Rise Up Juice 250ml",
@@ -547,8 +508,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5656",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Cut Watermelon 200g",
@@ -556,8 +516,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8704",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Daily Dose Apple Juice 300ml",
@@ -565,8 +524,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9363",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Daylesford Organic Bacon Smoked Streaky 184g",
@@ -574,8 +532,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8502",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Daylesford Organic Chicken Breast Fillets 400g",
@@ -584,7 +541,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5086",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Daylesford Organic Hummus 200g",
@@ -592,8 +549,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8628",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Daylesford Organic Nocellara Olives 180g",
@@ -601,8 +557,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5200",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Edwards Welsh Beef Steak Meatballs 330g",
@@ -611,7 +566,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Edwards%20Welsh%20Beef%20Steak%20Meatballs%20330g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Ember Original Biltong 25g",
@@ -619,8 +574,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5561",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "FieldGoods Thai Green Chicken Curry for One 280g",
@@ -628,8 +582,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8316",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Filippo Berio Olive Oil Extra Virgin 500ml",
@@ -637,8 +590,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-0629",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Green Beans 125g",
@@ -647,7 +599,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2068",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "GROUNDED Milk Chocolate Plant-Protein Shake 490ml",
@@ -655,8 +607,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/grounded-milk-chocolate-plant-protein-shake-490ml-614520011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "GROUNDED Mint Chocolate Plant Protein Shake 490ml",
@@ -664,8 +615,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=GROUNDED%20Mint%20Chocolate%20Plant%20Protein%20Shake%20490ml",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "HG Walter Beef Flat Iron Steak 250g",
@@ -674,7 +624,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13480",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Itsu Korean Crispy Style Chicken 340g",
@@ -683,7 +633,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-14094",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "KOOX Organic [No3] - Ultimate Detox- Fresh Cold-Pressed Juice 500ml",
@@ -691,8 +641,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5094",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Koox Organic Celery Sticks 180g",
@@ -700,8 +649,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8702",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "LEAP MSC Keta Salmon Fillets 220g",
@@ -710,7 +658,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=LEAP%20MSC%20Keta%20Salmon%20Fillets%20220g",
       "direct": false,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "Lindahls Protein Drink with Collagen Chocolate 250ml",
@@ -718,8 +666,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13221",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "M&S 2 Chicken Kyivs 320g",
@@ -728,7 +675,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%202%20Chicken%20Kyivs%20320g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "M&S 30 Day Matured Sirloin Steak 227g",
@@ -737,7 +684,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%2030%20Day%20Matured%20Sirloin%20Steak%20227g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "M&S Grill Greek Style Chicken Thighs 400g",
@@ -746,7 +693,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Grill%20Greek%20Style%20Chicken%20Thighs%20400g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Muller Rice Protein Chocolate Pudding 180g",
@@ -754,8 +701,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Muller%20Rice%20Protein%20Chocolate%20Pudding%20180g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Natoora Seasonal Tomato Box 550g",
@@ -764,7 +710,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13787",
       "direct": true,
-      "photo": "tomatoes"
+      "airFryer": true
     },
     {
       "name": "Natoora Sicilian Cherry Vine Tomatoes 200g",
@@ -773,7 +719,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6563",
       "direct": true,
-      "photo": "tomatoes"
+      "airFryer": true
     },
     {
       "name": "Nutella 350g",
@@ -781,8 +727,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-3013",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Ocado 2 Salmon Skin On Mid/Tail Fillets 240g",
@@ -791,7 +736,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Ocado%202%20Salmon%20Skin%20On%20Mid%2FTail%20Fillets%20240g",
       "direct": false,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "Optimum Nutrition Chocolate Sweet Coconut Protein Bar 59g",
@@ -799,8 +744,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7133",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Optimum Nutrition Nutty Chocolate Caramel Protein Bar 70g",
@@ -808,8 +752,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Optimum%20Nutrition%20Nutty%20Chocolate%20Caramel%20Protein%20Bar%2070g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Potts Beef & Red Wine Gravy 350g",
@@ -817,8 +760,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/search?query=Potts%20Beef%20%26%20Red%20Wine%20Gravy%20350g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "President Burger Cheddar & Emmental Cheese 200g",
@@ -826,8 +768,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-11553",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Schwartz Crushed Chilli 29g",
@@ -835,8 +776,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5421",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Schwartz Garlic Granules 50g",
@@ -844,8 +784,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-1942",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Schwartz Oregano 7g",
@@ -853,8 +792,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-1944",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Serious Pig Crunchy Snacking Cheese with Rosemary 24g",
@@ -862,8 +800,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5180",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Serious Pig Crunchy Snacking Cheese with Truffle 24g",
@@ -871,8 +808,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5181",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Spring Onions 1 bunch",
@@ -880,8 +816,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2070",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Sproud Unsweetened Pea Protein Drink 1l",
@@ -889,8 +824,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Sproud%20Unsweetened%20Pea%20Protein%20Drink%201l",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "St Pierre Brioche Burger Buns 6pck",
@@ -898,8 +832,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2271",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Strong Roots Mixed Root Vegetable Fries 500g",
@@ -908,7 +841,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2270",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Strong Roots Seasonal Greens 425g",
@@ -916,8 +849,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2119",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Taifun Organic Tofu Basil 200g",
@@ -925,8 +857,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2263",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "The Curators Salted Pork Puffs 25g",
@@ -934,8 +865,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=The%20Curators%20Salted%20Pork%20Puffs%2025g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "The Fresh Fish Shop Premium Salmon Fillets 260g 2pck",
@@ -944,7 +874,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9312",
       "direct": true,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "The Fresh Fish Shop Sashimi Grade Tuna Loin 200g",
@@ -952,8 +882,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9315",
-      "direct": true,
-      "photo": "fish"
+      "direct": true
     },
     {
       "name": "The Fresh Fish Shop Sea Bass Fillets 2pck 200g",
@@ -962,7 +891,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9307",
       "direct": true,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "The Jolly Hog 10 Outdoor Bred Pigs in Blankets 210g",
@@ -971,7 +900,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=The%20Jolly%20Hog%2010%20Outdoor%20Bred%20Pigs%20in%20Blankets%20210g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "The Jolly Hog Proper Porker Sausages 400g",
@@ -980,7 +909,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-4526",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "The Tofoo Co Extra Firm Tofu 280g",
@@ -989,7 +918,8 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2322",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true,
+      "packPhoto": "5034467000216"
     },
     {
       "name": "THIS Isn't Pork Sausages Plant-Based 270g",
@@ -997,8 +927,7 @@
       "count": 1,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6175",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "White Button Mushrooms 250g",
@@ -1007,7 +936,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12506",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "Ambry Free Range Turkey Bacon 150g",
@@ -1015,8 +944,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9133",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Arla Protein Chocolate Flavoured Milk Shake 482ml",
@@ -1024,8 +952,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/arla-protein-chocolate-flavoured-milk-shake-482ml-627841011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Bertinet Seven Seeds & Grains Sourdough 500g",
@@ -1033,8 +960,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Bertinet%20Seven%20Seeds%20%26%20Grains%20Sourdough%20500g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Billy Franks Hot 'N' Spicy Beef Jerky 30g",
@@ -1042,8 +968,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/billy-franks-hot-n-spicy-beef-jerky-30g-449211011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Billy Franks Hot N' Spicy Beef Jerky 30g",
@@ -1051,8 +976,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2174",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Biotiful Dairy Kefir Original 250ml",
@@ -1060,8 +984,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-1861",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Biotiful Kefir Drink Original 250ml",
@@ -1069,8 +992,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/biotiful-kefir-drink-original-250ml-348783011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Biotiful Kefir Protein Yogurt Original 250g",
@@ -1078,8 +1000,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/biotiful-kefir-protein-yogurt-original-250g-546991011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Birds Eye 22 Crispy Chicken Dippers 403g",
@@ -1088,7 +1009,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Birds%20Eye%2022%20Crispy%20Chicken%20Dippers%20403g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Birra Moretti Zero Alcohol Free Beer Bottles 4 x 330ml",
@@ -1096,8 +1017,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Birra%20Moretti%20Zero%20Alcohol%20Free%20Beer%20Bottles%204%20x%20330ml",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "BOL Tomato, Red Pepper & Lentil Power Soup 600g",
@@ -1105,8 +1025,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/bol-tomato-red-pepper-lentil-power-soup-600g-562871011",
-      "direct": true,
-      "photo": "tomatoes"
+      "direct": true
     },
     {
       "name": "Bold Bean Co Queen Butter Beans 570g",
@@ -1114,8 +1033,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Bold%20Bean%20Co%20Queen%20Butter%20Beans%20570g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Bounce Dipped Choc Brownie Protein Ball 40g",
@@ -1123,8 +1041,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/bounce-dipped-choc-brownie-protein-ball-40g-566038011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Boursin Garlic & Herbs Soft Cheese 150g",
@@ -1132,8 +1049,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7933",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Boursin Garlic & Herbs Soft French Cheese 150g",
@@ -1141,8 +1057,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/boursin-garlic-herbs-soft-french-cheese-150g-37297011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Brindisa Nitrate Free Alejandro Chorizo Slices 100g",
@@ -1150,8 +1065,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/brindisa-nitrate-free-alejandro-chorizo-slices-100g-81569011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Canvin and Gunner British Beef Flat Iron Steak 200g",
@@ -1160,7 +1074,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Canvin%20and%20Gunner%20British%20Beef%20Flat%20Iron%20Steak%20200g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Cathedral City Lighter Mature Cheese 6 Slices 150g",
@@ -1168,8 +1082,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/cathedral-city-lighter-mature-cheese-6-slices-150g-45874011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Cauldron Middle Eastern Falafel 200g",
@@ -1178,7 +1091,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/cauldron-middle-eastern-falafel-200g-55287011",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Cauldron Vegan Middle Eastern Falafel 200g",
@@ -1187,7 +1100,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13326",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Cavolo Nero 200g",
@@ -1195,8 +1108,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-11289",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Charlie Bigham's Chicken Tikka Masala & Pilau Rice for 2 805g",
@@ -1204,8 +1116,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Charlie%20Bigham%27s%20Chicken%20Tikka%20Masala%20%26%20Pilau%20Rice%20for%202%20805g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Charlie Bigham's Cottage Pie For One 325g",
@@ -1213,8 +1124,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Charlie%20Bigham%27s%20Cottage%20Pie%20For%20One%20325g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Charlie Bigham's Fish Pie for 2 655g",
@@ -1222,8 +1132,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Charlie%20Bigham%27s%20Fish%20Pie%20for%202%20655g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Charlie Bigham's Macaroni Cheese with Crispy Bacon for 2 670g",
@@ -1231,8 +1140,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Charlie%20Bigham%27s%20Macaroni%20Cheese%20with%20Crispy%20Bacon%20for%202%20670g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Charlie Bigham's Meatballs Al Forno For 1 325g",
@@ -1240,8 +1148,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Charlie%20Bigham%27s%20Meatballs%20Al%20Forno%20For%201%20325g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Charlie Bigham's Meatballs Al Forno for 2 650g",
@@ -1249,8 +1156,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Charlie%20Bigham%27s%20Meatballs%20Al%20Forno%20for%202%20650g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Charlie Bigham's Thai Green Chicken Curry & Fragrant Rice for 2 805g",
@@ -1258,8 +1164,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/charlie-bighams-thai-green-chicken-curry-fragrant-rice-for-2-805g-515841011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Charlie Bigham's Thai Red Chicken Curry & Fragrant Rice for 2 835g",
@@ -1267,8 +1172,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Charlie%20Bigham%27s%20Thai%20Red%20Chicken%20Curry%20%26%20Fragrant%20Rice%20for%202%20835g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Charlie Bigham's Vegetable Lasagne for 2 690g",
@@ -1276,8 +1180,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Charlie%20Bigham%27s%20Vegetable%20Lasagne%20for%202%20690g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Cheesies Cheddar Crunchy Popped Cheese 20g",
@@ -1285,8 +1188,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/cheesies-cheddar-crunchy-popped-cheese-20g-538320011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Clarence Court Burford Brown 10 Large Free Range Eggs 10 per pack",
@@ -1294,8 +1196,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Clarence%20Court%20Burford%20Brown%2010%20Large%20Free%20Range%20Eggs%2010%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Clipper Organic & Fairtrade Decaffeinated Earl Grey Tea 40 per pack",
@@ -1303,8 +1204,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Clipper%20Organic%20%26%20Fairtrade%20Decaffeinated%20Earl%20Grey%20Tea%2040%20per%20pack",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Clipper Organic & Fairtrade Decaffeinated Green Tea 40 per pack",
@@ -1312,8 +1212,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Clipper%20Organic%20%26%20Fairtrade%20Decaffeinated%20Green%20Tea%2040%20per%20pack",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Cook With M&S Rosemary 25g",
@@ -1321,8 +1220,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/cook-with-m-s-rosemary-25g-518612011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Cook With M&S Thyme Sprigs 25g",
@@ -1330,8 +1228,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/cook-with-m-s-thyme-sprigs-25g-518706011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Copella Apple Juice 300ml",
@@ -1339,8 +1236,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/copella-apple-juice-300ml-50181011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Corona Cero 330ml 4pk",
@@ -1348,8 +1244,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5422",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "CPRESS Organic Ginger Booster 110ml",
@@ -1357,8 +1252,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8492",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Cravendale Filtered Fresh Whole Milk Fresher for Longer 2l",
@@ -1366,8 +1260,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Cravendale%20Filtered%20Fresh%20Whole%20Milk%20Fresher%20for%20Longer%202l",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Daily Dose 100% Orange Juice 300ml",
@@ -1375,8 +1268,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-1480",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Daily Dose 100% Orange Juice 900ml",
@@ -1384,8 +1276,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-4310",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Daylesford Cashew Nuts 125g",
@@ -1393,8 +1284,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5060",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Daylesford Chicken Sausages 340g",
@@ -1402,8 +1292,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12239",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Daylesford Horseradish 170g",
@@ -1411,8 +1300,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/search?query=Daylesford%20Horseradish%20170g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Daylesford Organic Bacon Unsmoked Streaky 184g",
@@ -1420,8 +1308,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8503",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Daylesford Organic Cashew Nuts 125g",
@@ -1429,8 +1316,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/daylesford-organic-cashew-nuts-125g-277490011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Daylesford Original Beef Biltong 30g",
@@ -1438,8 +1324,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7912",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Daylesford Pork Sausages 400g",
@@ -1447,8 +1332,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12238",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Doritos Chilli Heatwave Tortilla Chips Multipack Crisps 5 per pack",
@@ -1456,8 +1340,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Doritos%20Chilli%20Heatwave%20Tortilla%20Chips%20Multipack%20Crisps%205%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Eatlean Protein Cheese Grated 180g",
@@ -1465,8 +1348,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/eatlean-protein-cheese-grated-180g-406363011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Ember Chilli Biltong 25g",
@@ -1474,8 +1356,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5562",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Ember Snacks Chilli Flavour Beef Biltong 25g",
@@ -1483,8 +1364,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/ember-snacks-chilli-flavour-beef-biltong-25g-448880011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Ember Snacks Original Flavour Beef Biltong 25g",
@@ -1492,8 +1372,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/ember-snacks-original-flavour-beef-biltong-25g-448881011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Emmi Caffe Latte Protein Iced Coffee 230ml",
@@ -1501,8 +1380,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Emmi%20Caffe%20Latte%20Protein%20Iced%20Coffee%20230ml",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "FieldGoods Beef Bourguignon for One 280g",
@@ -1510,8 +1388,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-8313",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Fieldgoods Beef Lasagne for One 360g",
@@ -1519,8 +1396,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12765",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Fieldgoods Free Range Chicken & Leek Pie for One 300g",
@@ -1528,8 +1404,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-10903",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Fieldgoods Slow Cooked Beef Chilli for One 280g",
@@ -1537,8 +1412,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12761",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Filippo Berio Extra Virgin Olive Oil 500ml",
@@ -1546,8 +1420,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/filippo-berio-extra-virgin-olive-oil-500ml-13887011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Fish Said Fred Coho Salmon Fillets 250g",
@@ -1556,7 +1429,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/fish-said-fred-coho-salmon-fillets-250g-694667011",
       "direct": true,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "Form Chocolate Salted Protein Bar 50g",
@@ -1564,8 +1437,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12939",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "FULFIL Chocolate Salted Caramel Vitamin & Protein Bar 55g",
@@ -1573,8 +1445,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/fulfil-chocolate-salted-caramel-vitamin-protein-bar-55g-623923011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "GetPRO Hazelnut Pudding 180g",
@@ -1582,8 +1453,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-11265",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "GetPRO Vanilla Protein Yogurt 160g",
@@ -1591,8 +1461,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9732",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Green & Black's Organic 85% Dark Chocolate Bar 90g",
@@ -1600,8 +1469,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Green%20%26%20Black%27s%20Organic%2085%25%20Dark%20Chocolate%20Bar%2090g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Grenade Caramel Chaos Protein Bar 60g",
@@ -1609,8 +1477,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/grenade-caramel-chaos-protein-bar-60g-292324011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Grenade Choc Chip Salt Caramel Protein Bar 60g",
@@ -1618,8 +1485,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6839",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Grenade Chocolate Chip Cookie Dough Protein Bar 60g",
@@ -1627,8 +1493,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9454",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Grenade Oreo Protein Bar 60g",
@@ -1636,8 +1501,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/grenade-oreo-protein-bar-60g-622626011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Grenade Oreo White Protein Bar 60g",
@@ -1645,8 +1509,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9453",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Grenade White Chocolate Cookie Protein Bar 60g",
@@ -1654,8 +1517,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/grenade-white-chocolate-cookie-protein-bar-60g-320777011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Griddle Bakery Choc-Chip Protein Waffles 200g",
@@ -1663,8 +1525,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/griddle-bakery-choc-chip-protein-waffles-200g-626982011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Griddle Bakery Original Protein Waffles 200g",
@@ -1672,8 +1533,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/griddle-bakery-original-protein-waffles-200g-626981011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "HECK! Low Fat Chicken Italia Gluten Free Chipolata Sausages 340g",
@@ -1681,8 +1541,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/heck-low-fat-chicken-italia-gluten-free-chipolata-sausages-340g-340331011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Heineken 0.0% Alcohol Free Beer Bottles 4 x 330ml",
@@ -1690,8 +1549,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Heineken%200.0%25%20Alcohol%20Free%20Beer%20Bottles%204%20x%20330ml",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Heinz No Added Sugar Tinned Baked Beans 415g",
@@ -1699,8 +1557,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Heinz%20No%20Added%20Sugar%20Tinned%20Baked%20Beans%20415g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "Heinz Tinned Baked Beans Single Can 415g",
@@ -1708,8 +1565,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Heinz%20Tinned%20Baked%20Beans%20Single%20Can%20415g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "Heinz Tomato Ketchup 460g",
@@ -1717,8 +1573,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/heinz-tomato-ketchup-460g-31335011",
-      "direct": true,
-      "photo": "tomatoes"
+      "direct": true
     },
     {
       "name": "HG WALTER Dry Aged Beef Burger 2 x 140g",
@@ -1726,8 +1581,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/hg-walter-dry-aged-beef-burger-2-x-140g-643059011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "HG WALTER Premium Beef Steak Burger 300g",
@@ -1736,7 +1590,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/hg-walter-premium-beef-steak-burger-300g-643058011",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Iceberg Lettuce 1pc",
@@ -1744,8 +1598,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9741",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Innocent Coconut Water 1l",
@@ -1753,8 +1606,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/innocent-coconut-water-1l-279065011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "itsu Korean Style Crispy Chicken 340g",
@@ -1762,8 +1614,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=itsu%20Korean%20Style%20Crispy%20Chicken%20340g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "itsu teriyaki chicken 8 bao buns 256g",
@@ -1771,8 +1622,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/itsu-teriyaki-chicken-8-bao-buns-256g-660160011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Jack Links Teriyaki Beef Jerky 25g",
@@ -1780,8 +1630,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/jack-links-teriyaki-beef-jerky-25g-549023011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Jacob's Mini Cheddars Original Multipack Baked Snacks 12 per pack",
@@ -1789,8 +1638,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Jacob%27s%20Mini%20Cheddars%20Original%20Multipack%20Baked%20Snacks%2012%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "John West No Drain Fridge Pot Tuna Steak with a Little Spring Water 3 x 110g",
@@ -1798,8 +1646,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=John%20West%20No%20Drain%20Fridge%20Pot%20Tuna%20Steak%20with%20a%20Little%20Spring%20Water%203%20x%20110g",
-      "direct": false,
-      "photo": "fish"
+      "direct": false
     },
     {
       "name": "Kellogg's Coco Pops Chocolate Breakfast Cereal 295g",
@@ -1807,8 +1654,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Kellogg%27s%20Coco%20Pops%20Chocolate%20Breakfast%20Cereal%20295g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Kellogg's Rice Krispies Multigrain Shapes Breakfast Cereal 350g",
@@ -1816,8 +1662,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Kellogg%27s%20Rice%20Krispies%20Multigrain%20Shapes%20Breakfast%20Cereal%20350g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Keto8 Chee*y Kale Crisps 30g",
@@ -1825,8 +1670,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-11296",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "KIND Protein Crunchy Peanut Butter Snack Bars Multipack 3 x 42g",
@@ -1834,8 +1678,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=KIND%20Protein%20Crunchy%20Peanut%20Butter%20Snack%20Bars%20Multipack%203%20x%2042g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "KIND Protein Dark Chocolate Nut Protein Bars Multipack 3 x 42g",
@@ -1843,8 +1686,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=KIND%20Protein%20Dark%20Chocolate%20Nut%20Protein%20Bars%20Multipack%203%20x%2042g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "KOOX Organic [No17] - Raw Coconut Water, Unpasteurised 500ml",
@@ -1852,8 +1694,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5704",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Lindahls Kvarg Chocolate Protein Pudding 140g",
@@ -1861,8 +1702,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6364",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Lindahls Protein Cottage Cheese 175g",
@@ -1870,8 +1710,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/lindahls-protein-cottage-cheese-175g-659769011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Lindahls Protein Gouda Cheese Slices 125g",
@@ -1879,8 +1718,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/lindahls-protein-gouda-cheese-slices-125g-659770011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Lindahls Protein Greek Salad Cheese 135g",
@@ -1888,8 +1726,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-11958",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Lindahls Protein Raspberry Kvarg Yoghurt 150g",
@@ -1897,8 +1734,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/lindahls-protein-raspberry-kvarg-yoghurt-150g-398840011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Lindahls Protein Vanilla Kvarg Yoghurt 150g",
@@ -1906,8 +1742,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/lindahls-protein-vanilla-kvarg-yoghurt-150g-398841011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "M&S 'The American' Woodfired & Stonebaked Pepperoni Pizza 395g",
@@ -1915,8 +1750,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20%27The%20American%27%20Woodfired%20%26%20Stonebaked%20Pepperoni%20Pizza%20395g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "M&S 2 Scottish Poached Salmon Fillets 160g",
@@ -1924,8 +1758,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-2-scottish-poached-salmon-fillets-160g-554322011",
-      "direct": true,
-      "photo": "fish"
+      "direct": true
     },
     {
       "name": "M&S 2 Sea Bass Fillets 180g",
@@ -1934,7 +1767,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-2-sea-bass-fillets-180g-505627011",
       "direct": true,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "M&S 4 Peanut Butter Flavour Protein Bars 4 x 55g",
@@ -1942,8 +1775,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%204%20Peanut%20Butter%20Flavour%20Protein%20Bars%204%20x%2055g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "M&S Brioche Posh Hot Dog Buns 6 per pack",
@@ -1951,8 +1783,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-brioche-posh-hot-dog-buns-6-per-pack-510849011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S British Baby New Potatoes 750g",
@@ -1961,7 +1792,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-british-baby-new-potatoes-750g-519958011",
       "direct": true,
-      "photo": "potatoes"
+      "airFryer": true
     },
     {
       "name": "M&S British Carrots 500g",
@@ -1969,8 +1800,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-british-carrots-500g-518655011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "M&S Buttery Mash Potato 450g",
@@ -1978,8 +1808,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Buttery%20Mash%20Potato%20450g",
-      "direct": false,
-      "photo": "potatoes"
+      "direct": false
     },
     {
       "name": "M&S Cabbage Medley 300g",
@@ -1987,8 +1816,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Cabbage%20Medley%20300g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "M&S Carrot, Broccoli, Potatoes & Courgettes with Seasoned Butter 315g",
@@ -1997,7 +1825,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Carrot%2C%20Broccoli%2C%20Potatoes%20%26%20Courgettes%20with%20Seasoned%20Butter%20315g",
       "direct": false,
-      "photo": "potatoes"
+      "airFryer": true
     },
     {
       "name": "M&S Chicken Chow Mein 400g",
@@ -2005,8 +1833,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Chicken%20Chow%20Mein%20400g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Collection British 6 Cumberland Sausages 400g",
@@ -2014,8 +1841,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-collection-british-6-cumberland-sausages-400g-519842011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Collection British Outdoor Bred 22 Dry Cured Smoked Streaky Bacon 180g",
@@ -2023,8 +1849,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-collection-british-outdoor-bred-22-dry-cured-smoked-streaky-bacon-180g-523798011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Collection British Wiltshire Roast Ham 6 Slices 110g",
@@ -2032,8 +1857,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Collection%20British%20Wiltshire%20Roast%20Ham%206%20Slices%20110g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Collection Freshly Squeezed Orange Juice with Bits 1l",
@@ -2041,8 +1865,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-collection-freshly-squeezed-orange-juice-with-bits-1l-506047011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "M&S Collection Queen Nocellara Olives 150g",
@@ -2050,8 +1873,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-collection-queen-nocellara-olives-150g-505136011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Count On Us Beef Ragu 360g",
@@ -2059,8 +1881,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Count%20On%20Us%20Beef%20Ragu%20360g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Count On Us Haddock Mornay 380g",
@@ -2068,8 +1889,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Count%20On%20Us%20Haddock%20Mornay%20380g",
-      "direct": false,
-      "photo": "fish"
+      "direct": false
     },
     {
       "name": "M&S Crispy Breaded Chicken Tenders 300g",
@@ -2077,8 +1897,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Crispy%20Breaded%20Chicken%20Tenders%20300g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Crispy Chicken Nuggets 290g",
@@ -2087,7 +1906,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Crispy%20Chicken%20Nuggets%20290g",
       "direct": false,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "M&S Egg Fried Rice 300g",
@@ -2095,8 +1914,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Egg%20Fried%20Rice%20300g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Extra Fine Beans 200g",
@@ -2104,8 +1922,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-extra-fine-beans-200g-517986011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "M&S French Fries Frozen 1kg 1kg",
@@ -2114,7 +1931,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20French%20Fries%20Frozen%201kg%201kg",
       "direct": false,
-      "photo": "potatoes"
+      "airFryer": true
     },
     {
       "name": "M&S Gastropub Chicken & Leek Pie for One 250g",
@@ -2122,8 +1939,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-gastropub-chicken-leek-pie-for-one-250g-516895011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Granny Smith Apples 4 per pack",
@@ -2131,8 +1947,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Granny%20Smith%20Apples%204%20per%20pack",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "M&S Greek Feta Cheese 200g",
@@ -2140,8 +1955,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-greek-feta-cheese-200g-527748011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Grill 2 Beef Burgers 3% Fat 300g",
@@ -2149,8 +1963,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Grill%202%20Beef%20Burgers%203%25%20Fat%20300g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Herby Minted Baby Potatoes 385g",
@@ -2159,7 +1972,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Herby%20Minted%20Baby%20Potatoes%20385g",
       "direct": false,
-      "photo": "potatoes"
+      "airFryer": true
     },
     {
       "name": "M&S High Protein Salted Caramel Flavour Protein Bars Multipack 4 x 55g",
@@ -2167,8 +1980,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20High%20Protein%20Salted%20Caramel%20Flavour%20Protein%20Bars%20Multipack%204%20x%2055g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "M&S Hot & Crunchy Radishes 200g",
@@ -2176,8 +1988,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-hot-crunchy-radishes-200g-517692011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "M&S Iceberg Lettuce",
@@ -2185,8 +1996,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-iceberg-lettuce-518090011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "M&S Italian Pasta & Spinach Salad 200g",
@@ -2194,8 +2004,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Italian%20Pasta%20%26%20Spinach%20Salad%20200g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Layered Peas, Carrots, Sweetcorn & Broccoli 355g",
@@ -2203,8 +2012,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Layered%20Peas%2C%20Carrots%2C%20Sweetcorn%20%26%20Broccoli%20355g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "M&S Lightly Salted Tortilla Chips 200g",
@@ -2212,8 +2020,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Lightly%20Salted%20Tortilla%20Chips%20200g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Melt in the Middle Cod Fillet Fishcakes 290g",
@@ -2221,8 +2028,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Melt%20in%20the%20Middle%20Cod%20Fillet%20Fishcakes%20290g",
-      "direct": false,
-      "photo": "fish"
+      "direct": false
     },
     {
       "name": "M&S Olives with Garlic, Pimento & Jalapeno 165g",
@@ -2230,8 +2036,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-olives-with-garlic-pimento-jalapeno-165g-505673011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Only 3 Ingredients 12 Beef Meatballs 300g",
@@ -2240,7 +2045,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-only-3-ingredients-12-beef-meatballs-300g-678777011",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "M&S Only 3 Ingredients 24 Beef Meatballs Frozen 600g",
@@ -2249,7 +2054,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-only-3-ingredients-24-beef-meatballs-frozen-600g-679172011",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "M&S Organic Baby Corn 125g",
@@ -2257,8 +2062,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-organic-baby-corn-125g-528406011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "M&S Organic Free Range Large Eggs 6 per pack",
@@ -2266,8 +2070,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-organic-free-range-large-eggs-6-per-pack-505183011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Organic Free Range Medium Eggs 6 per pack",
@@ -2275,8 +2078,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-organic-free-range-medium-eggs-6-per-pack-505186011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Organic Houmous 170g",
@@ -2284,8 +2086,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-organic-houmous-170g-505288011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Peanut Butter Chocolate Protein Bar 55g",
@@ -2293,8 +2094,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-peanut-butter-chocolate-protein-bar-55g-649947011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "M&S Perfectly Ripe Medium Hass Avocados 2 per pack",
@@ -2302,8 +2102,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-perfectly-ripe-medium-hass-avocados-2-per-pack-517789011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Peri Peri Chicken Breast Slices 160g",
@@ -2311,8 +2110,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-peri-peri-chicken-breast-slices-160g-652907011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Piccolini Vine Tomatoes 360g",
@@ -2321,7 +2119,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Piccolini%20Vine%20Tomatoes%20360g",
       "direct": false,
-      "photo": "tomatoes"
+      "airFryer": true
     },
     {
       "name": "M&S Plain Roasted Chicken Breast Slices 160g",
@@ -2329,8 +2127,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-plain-roasted-chicken-breast-slices-160g-652910011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Prawn Crackers 50g",
@@ -2338,8 +2135,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Prawn%20Crackers%2050g",
-      "direct": false,
-      "photo": "fish"
+      "direct": false
     },
     {
       "name": "M&S Protein Ball 40g",
@@ -2347,8 +2143,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Protein%20Ball%2040g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "M&S Red Romano Pointed Peppers 2 per pack",
@@ -2356,8 +2151,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-red-romano-pointed-peppers-2-per-pack-523736011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "M&S Roasted & Salted Cashews 150g",
@@ -2365,8 +2159,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-roasted-salted-cashews-150g-509137011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Roasted & Salted Peanuts 200g",
@@ -2374,8 +2167,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-roasted-salted-peanuts-200g-509134011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Rosa Vine Tomatoes 400g",
@@ -2384,7 +2176,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Rosa%20Vine%20Tomatoes%20400g",
       "direct": false,
-      "photo": "tomatoes"
+      "airFryer": true
     },
     {
       "name": "M&S Salt & Pepper Chicken 144g",
@@ -2392,8 +2184,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Salt%20%26%20Pepper%20Chicken%20144g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "M&S Salted Caramel Chocolate Protein Bar 55g",
@@ -2401,8 +2192,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-salted-caramel-chocolate-protein-bar-55g-649929011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "M&S Santini Baby Plum Tomatoes 340g",
@@ -2410,8 +2200,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Santini%20Baby%20Plum%20Tomatoes%20340g",
-      "direct": false,
-      "photo": "tomatoes"
+      "direct": false
     },
     {
       "name": "M&S Scottish Oak Smoked Salmon Slices 100g",
@@ -2419,8 +2208,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Scottish%20Oak%20Smoked%20Salmon%20Slices%20100g",
-      "direct": false,
-      "photo": "fish"
+      "direct": false
     },
     {
       "name": "M&S Seedless Easy Peelers 600g",
@@ -2428,8 +2216,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-seedless-easy-peelers-600g-517762011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "M&S Slow Cooked Minced Beef Chilli 627g",
@@ -2437,8 +2224,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-slow-cooked-minced-beef-chilli-627g-651036011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "M&S Southern Fried Chicken Burgers 282g",
@@ -2446,8 +2232,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Southern%20Fried%20Chicken%20Burgers%20282g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Spaghetti & Meatballs in a Tomato Sauce Serves 1 400g",
@@ -2455,8 +2240,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Spaghetti%20%26%20Meatballs%20in%20a%20Tomato%20Sauce%20Serves%201%20400g",
-      "direct": false,
-      "photo": "tomatoes"
+      "direct": false
     },
     {
       "name": "M&S Spaghetti Carbonara Serves 1 400g",
@@ -2464,8 +2248,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Spaghetti%20Carbonara%20Serves%201%20400g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Spring Onions",
@@ -2473,8 +2256,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-spring-onions-517974011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "M&S Steak Casserole with Dumplings & Gravy 450g",
@@ -2482,8 +2264,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%20Steak%20Casserole%20with%20Dumplings%20%26%20Gravy%20450g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "M&S Super Sweet Corn on the Cob 2 per pack",
@@ -2492,7 +2273,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-super-sweet-corn-on-the-cob-2-per-pack-518057011",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "M&S Tenderstem Broccoli 200g",
@@ -2501,7 +2282,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-tenderstem-broccoli-200g-517981011",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "Maple Shack 100% Pure Grade A Maple Syrup 250g",
@@ -2509,8 +2290,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Maple%20Shack%20100%25%20Pure%20Grade%20A%20Maple%20Syrup%20250g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Mars Low Sugar, Hi Protein Bar 57g",
@@ -2518,8 +2298,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Mars%20Low%20Sugar%2C%20Hi%20Protein%20Bar%2057g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Mattarello Arrabbiata Sauce 230g",
@@ -2527,8 +2306,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Mattarello%20Arrabbiata%20Sauce%20230g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Mattessons Smoked Turkey Rashers 150g",
@@ -2536,8 +2314,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Mattessons%20Smoked%20Turkey%20Rashers%20150g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Mini Babybel Light Cheese Snacks 6 x 20g",
@@ -2545,8 +2322,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/mini-babybel-light-cheese-snacks-6-x-20g-27777011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "MOJU Ginger Vitality Dosing Bottle 7x Shots 420ml",
@@ -2554,8 +2330,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/moju-ginger-vitality-dosing-bottle-7x-shots-420ml-584914011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "MOJU Ginger Vitality Shot 60ml",
@@ -2563,8 +2338,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/moju-ginger-vitality-shot-60ml-428650011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "MOJU Turmeric Vitality Dosing Bottle 7x Shots 420ml",
@@ -2572,8 +2346,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/moju-turmeric-vitality-dosing-bottle-7x-shots-420ml-584913011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Nakd Protein Cocoa Hazelnut Bar 45g",
@@ -2581,8 +2354,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13240",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "nakd. Protein Cocoa Hazelnut Bars Multipack 3 x 45g",
@@ -2590,8 +2362,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/nakd-protein-cocoa-hazelnut-bars-multipack-3-x-45g-609577011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Natoora British Roasting Potatoes 1kg",
@@ -2600,7 +2371,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Natoora%20British%20Roasting%20Potatoes%201kg",
       "direct": false,
-      "photo": "potatoes"
+      "airFryer": true
     },
     {
       "name": "Natoora Fresh Italian Rosemary 30g",
@@ -2608,8 +2379,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6770",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Natoora Freshly Sliced Spicy Chorizo 90g",
@@ -2617,8 +2387,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9633",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Natoora Green Kale 200g",
@@ -2626,8 +2395,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-12986",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Natoora Hass Avocado 1pc",
@@ -2635,8 +2403,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6549",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Natoora Hummus with Extra Virgin Olive Oil 170g",
@@ -2644,8 +2411,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6570",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Natoora Mixed Tomatoes 350g",
@@ -2654,7 +2420,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-11358",
       "direct": true,
-      "photo": "tomatoes"
+      "airFryer": true
     },
     {
       "name": "Natoora Sicilian Datterini Tomatoes 200g",
@@ -2663,7 +2429,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/natoora-sicilian-datterini-tomatoes-200g-66810011",
       "direct": true,
-      "photo": "tomatoes"
+      "airFryer": true
     },
     {
       "name": "Natoora Vine Tomatoes 350g",
@@ -2672,7 +2438,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6558",
       "direct": true,
-      "photo": "tomatoes"
+      "airFryer": true
     },
     {
       "name": "Nature Valley Peanut & Chocolate Protein Bars 4pck",
@@ -2680,8 +2446,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-4813",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Nature Valley Protein Peanut & Chocolate Cereal Bars 4 x 40g",
@@ -2689,8 +2454,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/nature-valley-protein-peanut-chocolate-cereal-bars-4-x-40g-289079011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Nesquik Chocolate Breakfast Cereal 375g",
@@ -2698,8 +2462,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Nesquik%20Chocolate%20Breakfast%20Cereal%20375g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "New York Bakery Sesame Bagels 5 per pack",
@@ -2707,8 +2470,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=New%20York%20Bakery%20Sesame%20Bagels%205%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Nutella Hazelnut Chocolate Spread 350g",
@@ -2716,8 +2478,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/nutella-hazelnut-chocolate-spread-350g-551647011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Oatly Oat Drink Barista Edition Long Life 1l",
@@ -2725,8 +2486,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Oatly%20Oat%20Drink%20Barista%20Edition%20Long%20Life%201l",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Ocado ASC Raw King Prawns 165g",
@@ -2735,7 +2495,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-asc-raw-king-prawns-165g-553015011",
       "direct": true,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "Ocado Asparagus Tips 125g",
@@ -2744,7 +2504,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-asparagus-tips-125g-321393011",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "Ocado Baby Button Mushrooms 200g",
@@ -2753,7 +2513,7 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-baby-button-mushrooms-200g-486040011",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true
     },
     {
       "name": "Ocado British Chicken Thigh Fillets Boneless Typically: 450g",
@@ -2761,8 +2521,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Ocado%20British%20Chicken%20Thigh%20Fillets%20Boneless%20Typically%3A%20450g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Ocado Cavolo Nero 200g",
@@ -2770,8 +2529,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-cavolo-nero-200g-581115011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Ocado Lemons Twin Pack 2 per pack",
@@ -2779,8 +2537,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-lemons-twin-pack-2-per-pack-543054011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Ocado Little Gem Lettuce 2 per pack",
@@ -2788,8 +2545,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-little-gem-lettuce-2-per-pack-579679011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Ocado Sliced Kale 200g",
@@ -2797,8 +2553,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-sliced-kale-200g-65343011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Ocado Trimmed Sugar Snap Peas 150g",
@@ -2806,8 +2561,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-trimmed-sugar-snap-peas-150g-63543011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Optimum Nutrition High Protein Shake Chocolate 330ml",
@@ -2815,8 +2569,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/optimum-nutrition-high-protein-shake-chocolate-330ml-626867011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Pasta Evangelists Beef Lasagne for 1 385g",
@@ -2824,8 +2577,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/pasta-evangelists-beef-lasagne-for-1-385g-574481011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Peperami Hot Salami 5 x 20g",
@@ -2833,8 +2585,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/peperami-hot-salami-5-x-20g-15291011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Peperami Original Salami 5 x 20g",
@@ -2842,8 +2593,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/peperami-original-salami-5-x-20g-15290011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Peroni Nastro Azzurro 0.0% 4pck",
@@ -2851,8 +2601,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-6529",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Philadelphia Protein Low Fat Soft Cream Cheese 165g",
@@ -2860,8 +2609,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/philadelphia-protein-low-fat-soft-cream-cheese-165g-27569011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Plenish Ginger Immunity Shot 60ml",
@@ -2869,8 +2617,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/plenish-ginger-immunity-shot-60ml-470644011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Plenish Organic Ginger Immunity Shot 60ml",
@@ -2878,8 +2625,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13218",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Profusion Organic Protein Bread Rye & Flax 250g",
@@ -2887,8 +2633,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/profusion-organic-protein-bread-rye-flax-250g-269473011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Profusion Organic Rye & Flax Protein Bread 250g",
@@ -2896,8 +2641,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-10551",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Propercorn Salted Microwave Popcorn 3 x 70g",
@@ -2905,8 +2649,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Propercorn%20Salted%20Microwave%20Popcorn%203%20x%2070g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "Quaker Oat So Simple Golden Syrup Porridge Cereal Pot 57g",
@@ -2914,8 +2657,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Quaker%20Oat%20So%20Simple%20Golden%20Syrup%20Porridge%20Cereal%20Pot%2057g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Quaker Oat So Simple Original Porridge Cereal Pot 45g",
@@ -2923,8 +2665,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Quaker%20Oat%20So%20Simple%20Original%20Porridge%20Cereal%20Pot%2045g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Quaker Oats High Protein Golden Syrup Porridge Pot 63g",
@@ -2932,8 +2673,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Quaker%20Oats%20High%20Protein%20Golden%20Syrup%20Porridge%20Pot%2063g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Quaker Oats High Protein Original Porridge Pot 49g",
@@ -2941,8 +2681,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Quaker%20Oats%20High%20Protein%20Original%20Porridge%20Pot%2049g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "RE:NOURISH + Thrive Chicken & Vegetable Soup 500g",
@@ -2950,8 +2689,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-10815",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "RE:NOURISH Immunity Soup Kale Spinach & Turmeric 500g",
@@ -2959,8 +2697,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5610",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "RENOURISH Calm Tomato & Basil, No Added Sugar Soup 500g",
@@ -2968,8 +2705,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/renourish-calm-tomato-basil-no-added-sugar-soup-500g-572189011",
-      "direct": true,
-      "photo": "tomatoes"
+      "direct": true
     },
     {
       "name": "RENOURISH Immunity Kale, Spinach, GLP-1 Friendly Soup 500g",
@@ -2977,8 +2713,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/renourish-immunity-kale-spinach-glp-1-friendly-soup-500g-500568011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "RENOURISH Restore Pea, Leek and Watercress, GLP-1 Friendly Soup 500g",
@@ -2986,8 +2721,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/renourish-restore-pea-leek-and-watercress-glp-1-friendly-soup-500g-629215011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "RENOURISH Thrive Chicken and Vegetable, High Protein & High Fibre Soup 500g",
@@ -2995,8 +2729,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/renourish-thrive-chicken-and-vegetable-high-protein-high-fibre-soup-500g-654889011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Richmond 8 Meat Free Vegan Frozen Sausages 304g",
@@ -3004,8 +2737,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Richmond%208%20Meat%20Free%20Vegan%20Frozen%20Sausages%20304g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Roasted & Salted Cashews 100g",
@@ -3013,8 +2745,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-0820",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "San Amvrosia Hummus 142g",
@@ -3022,8 +2753,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2564",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Sauce Shop Buffalo Hot Sauce 160ml",
@@ -3031,8 +2761,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/search?query=Sauce%20Shop%20Buffalo%20Hot%20Sauce%20160ml",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Schwartz Crushed Chilli Jar 29g",
@@ -3040,8 +2769,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/schwartz-crushed-chilli-jar-29g-316736011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Schwartz Garlic Granules Jar 50g",
@@ -3049,8 +2777,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/schwartz-garlic-granules-jar-50g-316766011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Schwartz Oregano Jar 7g",
@@ -3058,8 +2785,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/schwartz-oregano-jar-7g-316769011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Schwartz Pink Himalayan Salt Grinder 71g",
@@ -3067,8 +2793,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/schwartz-pink-himalayan-salt-grinder-71g-484750011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Serious Pig Crunchy Snacking Cheese 24g",
@@ -3076,8 +2801,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7321",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Serious Pig Crunchy Snacking Cheese w Caramelised Onion 24g",
@@ -3085,8 +2809,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7330",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Serious Pig Snackalami Chilli 30g",
@@ -3094,8 +2817,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-7373",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Snack a Jacks Salt & Vinegar Multipack Rice Cakes Crisps 5 per pack",
@@ -3103,8 +2825,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Snack%20a%20Jacks%20Salt%20%26%20Vinegar%20Multipack%20Rice%20Cakes%20Crisps%205%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "St Ewe Rich Yolk Free Range Eggs 6 per pack",
@@ -3112,8 +2833,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=St%20Ewe%20Rich%20Yolk%20Free%20Range%20Eggs%206%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "St Pierre 4 Sliced Brioche Burger Buns 4 per pack",
@@ -3121,8 +2841,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/st-pierre-4-sliced-brioche-burger-buns-4-per-pack-577124011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "St Pierre Hot Dog Brioche Rolls 4pck",
@@ -3130,8 +2849,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-2683",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "St. Ewe Original Large Free Range Eggs 6 per pack",
@@ -3139,8 +2857,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=St.%20Ewe%20Original%20Large%20Free%20Range%20Eggs%206%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Sugar Snaps Peas 150g",
@@ -3148,8 +2865,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-10060",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "SUN Bites Sweet Chilli High Fibre Snacks Multipack Crisps 6x25g 6 per pack",
@@ -3157,8 +2873,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=SUN%20Bites%20Sweet%20Chilli%20High%20Fibre%20Snacks%20Multipack%20Crisps%206x25g%206%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Sunny & Luna Cauliflower Gnocchi 350g",
@@ -3166,8 +2881,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/sunny-luna-cauliflower-gnocchi-350g-646972011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Sunny & Luna Spinach Gnocchi 350g",
@@ -3175,8 +2889,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/sunny-luna-spinach-gnocchi-350g-646970011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Taifun Organic Firm Tofu With Basil 200g",
@@ -3184,8 +2897,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Taifun%20Organic%20Firm%20Tofu%20With%20Basil%20200g",
-      "direct": false,
-      "photo": "vegetables"
+      "direct": false
     },
     {
       "name": "The Coconut Collab Choc Pots 4 x 45g",
@@ -3193,8 +2905,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=The%20Coconut%20Collab%20Choc%20Pots%204%20x%2045g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "The Coconut Collaborative Coconut Water 1L",
@@ -3202,8 +2913,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-14002",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "The Coconut Collaborative Coconut Water 330ml",
@@ -3211,8 +2921,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13877",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "The Fresh Fish Shop Fresh King Prawns Raw & Peeled 250g",
@@ -3220,8 +2929,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9319",
-      "direct": true,
-      "photo": "fish"
+      "direct": true
     },
     {
       "name": "The Fresh Fish Shop Frozen Breaded Cod Goujons",
@@ -3230,7 +2938,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-9321",
       "direct": true,
-      "photo": "fish"
+      "airFryer": true
     },
     {
       "name": "Thorner's Beef Meatballs 12pck 340g",
@@ -3239,7 +2947,7 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13530",
       "direct": true,
-      "photo": "pantry"
+      "airFryer": true
     },
     {
       "name": "Tofoo & Co. Naked Organic Extra Firm Tofu 280g",
@@ -3248,7 +2956,8 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/tofoo-co-naked-organic-extra-firm-tofu-280g-349669011",
       "direct": true,
-      "photo": "vegetables"
+      "airFryer": true,
+      "packPhoto": "5034467000216"
     },
     {
       "name": "Trek Cocoa Oat Protein Flapjack 50g",
@@ -3256,8 +2965,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-5748",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "TREK Cocoa Oat Protein Flapjacks Multipack 3 x 50g",
@@ -3265,8 +2973,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/trek-cocoa-oat-protein-flapjacks-multipack-3-x-50g-304554011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "TREK Salted Caramel Protein Flapjacks Multipack 3 x 50g",
@@ -3274,8 +2981,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=TREK%20Salted%20Caramel%20Protein%20Flapjacks%20Multipack%203%20x%2050g",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Unearthed Spanish Serrano Ham 90g",
@@ -3283,8 +2989,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-1448",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Unearthed Spanish Serrano Ham 90g",
@@ -3292,8 +2997,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/unearthed-spanish-serrano-ham-90g-250267011",
-      "direct": true,
-      "photo": "pantry"
+      "direct": true
     },
     {
       "name": "Very Lazy Chopped Garlic 200g",
@@ -3301,8 +3005,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/very-lazy-chopped-garlic-200g-356305011",
-      "direct": true,
-      "photo": "vegetables"
+      "direct": true
     },
     {
       "name": "Vita Coco The Original Coconut Water 330ml",
@@ -3310,8 +3013,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/vita-coco-the-original-coconut-water-330ml-54833011",
-      "direct": true,
-      "photo": "drinks"
+      "direct": true
     },
     {
       "name": "Walkers Baked Sea Salt Multipack Snacks 6 x 22g 6 per pack",
@@ -3319,8 +3021,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Walkers%20Baked%20Sea%20Salt%20Multipack%20Snacks%206%20x%2022g%206%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Walkers Max Punchy Paprika Multipack Crisps 6x27g 6 per pack",
@@ -3328,8 +3029,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Walkers%20Max%20Punchy%20Paprika%20Multipack%20Crisps%206x27g%206%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Walkers Salt & Shake Multipack Crisps 6x24g 6 per pack",
@@ -3337,8 +3037,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Walkers%20Salt%20%26%20Shake%20Multipack%20Crisps%206x24g%206%20per%20pack",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Walkers Salt & Vinegar Multipack Crisps 6x25g 6 per pack",
@@ -3346,8 +3045,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Walkers%20Salt%20%26%20Vinegar%20Multipack%20Crisps%206x25g%206%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Walkers Sensations Thai Sweet Chilli Multipack Crisps 5 x 25g 5 per pack",
@@ -3355,8 +3053,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Walkers%20Sensations%20Thai%20Sweet%20Chilli%20Multipack%20Crisps%205%20x%2025g%205%20per%20pack",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     },
     {
       "name": "Warburtons 4 Protein Thin Bagels 4 per pack",
@@ -3364,8 +3061,7 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Warburtons%204%20Protein%20Thin%20Bagels%204%20per%20pack",
-      "direct": false,
-      "photo": "drinks"
+      "direct": false
     },
     {
       "name": "Wheyhey BBQ Chicken Pasta 450g",
@@ -3373,8 +3069,12 @@
       "count": 0,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=Wheyhey%20BBQ%20Chicken%20Pasta%20450g",
-      "direct": false,
-      "photo": "pantry"
+      "direct": false
     }
-  ]
+  ],
+  "photoCredits": {
+    "5010228001869": "macrofactor",
+    "5010228006963": "prepperapp",
+    "5034467000216": "macrofactor"
+  }
 }

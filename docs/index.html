@@ -14,8 +14,8 @@
   <meta property="og:image" content="https://ethansk.github.io/air-frying/assets/salmon-potato-slices.webp">
   <meta property="og:image:alt" content="Round roasted potato slices and cherry tomatoes in the top air fryer drawer, with salmon and asparagus in the bottom drawer.">
   <link rel="icon" href="./assets/icon.png" type="image/png">
-  <link rel="stylesheet" href="./styles.css?v=6">
-  <script type="module" src="./favourites.js?v=1"></script>
+  <link rel="stylesheet" href="./styles.css?v=7">
+  <script type="module" src="./favourites.js?v=2"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -94,10 +94,10 @@
           </div>
         </article>
         <article class="setup-summary-card">
-          <img src="./assets/fingerbot-parts.webp" width="780" height="520" loading="lazy" alt="">
+          <img src="./assets/fingerbot-on-cosori.webp" width="780" height="520" loading="lazy" alt="Illustration of a Fingerbot held to the COSORI with white duct tape, with foil on its arm tip.">
           <div>
             <h3><a href="./setup.html#fingerbot">MOES Bluetooth Fingerbot</a></h3>
-            <p>The prototype uses a foil tip held on with Blu Tack. Automatic Start is unverified. Press Start/Pause on the fryer for cooking.</p>
+            <p>White duct tape holds the bot in place. Blu Tack holds the foil on the moving tip. Automatic Start remains unverified. Press Start/Pause on the fryer for cooking.</p>
           </div>
         </article>
       </div>
@@ -107,20 +107,28 @@
       <div class="setup-summary-heading">
         <div>
           <h2 id="orders-title">Ethan’s Common Orders</h2>
-          <p>Regular picks from Zapp and Zoom by Ocado. Counts show how often they appeared in the orders checked.</p>
+          <p>Browse Zapp and Zoom by Ocado favourites, starting with air-fryer picks. Counts show how often an item appeared in the orders checked.</p>
         </div>
         <a class="button" href="./favourites.html">All Favourites &amp; Repeat Buys <span aria-hidden="true">→</span></a>
       </div>
-      <ul class="catalog-gallery" aria-label="Most ordered groceries"></ul>
+      <div class="gallery-toolbar" hidden>
+        <span class="gallery-total"></span>
+        <div class="gallery-buttons">
+          <button type="button" aria-label="Scroll to previous groceries" aria-controls="orders-gallery"><span aria-hidden="true">←</span></button>
+          <button type="button" aria-label="Scroll to next groceries" aria-controls="orders-gallery"><span aria-hidden="true">→</span></button>
+        </div>
+      </div>
+      <ul id="orders-gallery" class="catalog-gallery" aria-label="Favourites and repeat buys" tabindex="0"></ul>
+      <p class="gallery-status" role="status"></p>
     </section>
 
     <section id="example" class="example" aria-labelledby="example-title">
       <div>
         <h2 id="example-title">Try Asking</h2>
-        <p>Give the potatoes their own program so they have time to brown. Check if the tomatoes can cook alongside them and if the salmon and asparagus can share the other drawer.</p>
+        <p>Give the fries room to crisp in one drawer and use the other for steak. Check the steak’s cut and thickness and the fries’ packet directions before choosing settings.</p>
       </div>
       <blockquote>
-        <p>Check my recent Zapp and Zoom orders and plan dinner. I’d like salmon with asparagus, crispy baby potato slices and jammy tomatoes. Tell me what goes in each drawer and help both finish together.</p>
+        <p>Check my recent Zapp and Zoom orders and plan dinner. Maybe steak with fries, if I have them. Tell me what to put in each drawer and help both finish together.</p>
       </blockquote>
     </section>
 

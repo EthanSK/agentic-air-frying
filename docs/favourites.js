@@ -13,38 +13,41 @@ function orderLabel(count) {
   return `${count} ${count === 1 ? 'order' : 'orders'}`
 }
 
-function makeCard(item, compact) {
+function makeCard(item, compact, photoCredits) {
   const card = element('li', '', 'catalog-card')
-  if (compact) {
+  const photographer = photoCredits[item.packPhoto]
+  const body = element('div', '', 'catalog-card-body')
+  if (photographer) {
     const image = element('img')
-    image.src = `./assets/grocery-${item.photo}.webp`
-    image.alt = ''
+    image.src = `./assets/packs/${item.packPhoto}.jpg`
+    image.alt = `Pack photo of ${item.name}`
     image.loading = 'lazy'
-    image.width = 360
-    image.height = 360
-    card.append(image)
+    image.width = 400
+    image.height = 400
+    body.append(image)
   }
 
-  const body = element('div', '', 'catalog-card-body')
   const meta = element('p', shops[item.shop], 'catalog-card-meta')
   meta.append(element('span', orderLabel(item.count), 'order-count'))
-  const title = element(compact ? 'h3' : 'h2')
-  if (compact) {
-    const link = element('a', item.name)
-    link.href = `./favourites.html?product=${encodeURIComponent(item.name)}&shop=${item.shop}`
-    title.append(link)
-  } else {
-    title.textContent = item.name
-  }
+  const title = element(compact ? 'h3' : 'h2', item.name)
   body.append(meta, title)
 
-  if (!compact) {
-    const footer = element('div', '', 'catalog-card-footer')
-    const link = element('a', item.direct ? `View on ${shops[item.shop]}` : `Find on ${shops[item.shop]}`)
-    link.href = item.url
-    footer.append(link)
-    if (item.favourite) footer.append(element('span', 'Favourite'))
-    body.append(footer)
+  const footer = element('div', '', 'catalog-card-footer')
+  const link = element('a', item.direct ? `View on ${shops[item.shop]}` : `Search ${shops[item.shop]}`)
+  link.href = item.url
+  link.setAttribute('aria-label', `${link.textContent} for ${item.name}`)
+  footer.append(link)
+  if (!compact && item.favourite) footer.append(element('span', 'Favourite'))
+  body.append(footer)
+
+  if (photographer) {
+    const credits = element('p', 'Photo by ', 'pack-credit')
+    const source = element('a', `${photographer} / Open Food Facts`)
+    source.href = `https://world.openfoodfacts.org/product/${item.packPhoto}`
+    const license = element('a', 'CC BY-SA 3.0')
+    license.href = 'https://creativecommons.org/licenses/by-sa/3.0/'
+    credits.append(source, ' · ', license)
+    body.append(credits)
   }
 
   card.append(body)
@@ -70,7 +73,7 @@ function renderList(data, items) {
       (!favouritesOnly.checked || item.favourite) &&
       item.name.toLowerCase().includes(query)
     )
-    grid.replaceChildren(...matches.map(item => makeCard(item, false)))
+    grid.replaceChildren(...matches.map(item => makeCard(item, false, data.photoCredits)))
     status.textContent = matches.length
       ? `${matches.length} ${matches.length === 1 ? 'product' : 'products'}`
       : 'No matching products.'
@@ -83,24 +86,44 @@ function renderList(data, items) {
   render()
 }
 
+function renderGallery(data, items) {
+  const gallery = preview.querySelector('.catalog-gallery')
+  const toolbar = preview.querySelector('.gallery-toolbar')
+  const [previous, next] = toolbar.querySelectorAll('button')
+  const galleryItems = [...items].sort((a, b) => Number(!!b.airFryer) - Number(!!a.airFryer))
+  gallery.replaceChildren(...galleryItems.map(item => makeCard(item, true, data.photoCredits)))
+  toolbar.querySelector('.gallery-total').textContent = `${galleryItems.length} products`
+  toolbar.hidden = galleryItems.length === 0
+
+  function updateButtons() {
+    previous.disabled = gallery.scrollLeft <= 1
+    next.disabled = gallery.scrollLeft + gallery.clientWidth >= gallery.scrollWidth - 1
+  }
+
+  function scroll(direction) {
+    const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches
+    const [first, second] = gallery.children
+    if (!second) return
+    const cardStep = second.offsetLeft - first.offsetLeft
+    const fullCards = Math.max(1, Math.floor(gallery.clientWidth / cardStep))
+    gallery.scrollBy({ left: direction * fullCards * cardStep, behavior: reducedMotion ? 'instant' : 'smooth' })
+  }
+
+  previous.addEventListener('click', () => scroll(-1))
+  next.addEventListener('click', () => scroll(1))
+  gallery.addEventListener('scroll', updateButtons, { passive: true })
+  new ResizeObserver(updateButtons).observe(gallery)
+  updateButtons()
+}
+
 try {
   const response = await fetch(new URL('./favourites.json', import.meta.url), { cache: 'no-cache' })
   if (!response.ok) throw new Error('Could not load the catalogue')
   const data = await response.json()
   const items = [...data.items].sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, 'en-GB'))
   if (list) renderList(data, items)
-  if (preview) {
-    const featured = items.slice(0, 5)
-    if (featured.every(item => item.shop === featured[0].shop)) {
-      const otherShopItems = items.filter(item => item.shop !== featured[0].shop && item.count > 0)
-      const photosShown = new Set(featured.slice(0, -1).map(item => item.photo))
-      const otherShop = otherShopItems.find(item =>
-        item.count === otherShopItems[0].count && !photosShown.has(item.photo)
-      ) ?? otherShopItems[0]
-      if (otherShop) featured[featured.length - 1] = otherShop
-    }
-    preview.querySelector('ul').replaceChildren(...featured.map(item => makeCard(item, true)))
-  }
+  if (preview) renderGallery(data, items)
 } catch {
-  if (list) list.querySelector('.catalog-status').textContent = 'Couldn’t load the catalogue. Reload to try again.'
+  const status = list?.querySelector('.catalog-status') ?? preview?.querySelector('.gallery-status')
+  if (status) status.textContent = 'Couldn’t load the catalogue. Reload to try again.'
 }
