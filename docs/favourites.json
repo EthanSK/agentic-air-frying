@@ -1,5 +1,5 @@
 {
-  "coverage": "Counts cover 15 delivered Zapp orders checked on 18 November 2026 and 2 saved delivered Zoom orders. The catalogue uses the latest saved favourites, with a full Zapp snapshot from 7 November 2026 and a full Zoom snapshot from 12 November 2026 plus later recorded changes.",
+  "coverage": "Counts cover 15 delivered Zapp orders and all 9 delivered Zoom orders shown in My Orders on 18 November 2026. The catalogue uses the latest saved favourites, with a full Zapp snapshot from 7 November 2026 and a full Zoom snapshot from 12 November 2026 plus later recorded changes.",
   "items": [
     {
       "name": "Asparagus 250g",
@@ -668,7 +668,7 @@
     {
       "name": "GROUNDED Milk Chocolate Plant-Protein Shake 490ml",
       "shop": "zoom",
-      "count": 1,
+      "count": 2,
       "favourite": true,
       "url": "https://zoom.ocado.com/grounded-milk-chocolate-plant-protein-shake-490ml-614520011",
       "direct": true,
@@ -677,7 +677,7 @@
     {
       "name": "GROUNDED Mint Chocolate Plant Protein Shake 490ml",
       "shop": "zoom",
-      "count": 1,
+      "count": 2,
       "favourite": true,
       "url": "https://zoom.ocado.com/grounded-mint-chocolate-plant-protein-shake-490ml-614519011",
       "direct": true,
@@ -1070,7 +1070,7 @@
     {
       "name": "Billy Franks Hot 'N' Spicy Beef Jerky 30g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/billy-franks-hot-n-spicy-beef-jerky-30g-449211011",
       "direct": true,
@@ -1125,7 +1125,7 @@
     {
       "name": "Birra Moretti Zero Alcohol Free Beer Bottles 4 x 330ml",
       "shop": "zoom",
-      "count": 0,
+      "count": 5,
       "favourite": true,
       "url": "https://zoom.ocado.com/birra-moretti-zero-alcohol-free-beer-bottles-4-x-330ml-556256011",
       "direct": true,
@@ -1245,7 +1245,7 @@
     {
       "name": "Charlie Bigham's Cottage Pie For One 325g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/charlie-bighams-cottage-pie-for-one-325g-347556011",
       "direct": true,
@@ -1272,7 +1272,7 @@
     {
       "name": "Charlie Bigham's Meatballs Al Forno For 1 325g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/charlie-bighams-meatballs-al-forno-for-1-325g-347557011",
       "direct": true,
@@ -1299,7 +1299,7 @@
     {
       "name": "Charlie Bigham's Thai Red Chicken Curry & Fragrant Rice for 2 835g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/charlie-bighams-thai-red-chicken-curry-fragrant-rice-for-2-835g-286864011",
       "direct": true,
@@ -1398,7 +1398,7 @@
     {
       "name": "Cravendale Filtered Fresh Whole Milk Fresher for Longer 2l",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/cravendale-filtered-fresh-whole-milk-fresher-for-longer-2l-24577011",
       "direct": true,
@@ -1487,7 +1487,7 @@
     {
       "name": "Doritos Chilli Heatwave Tortilla Chips Multipack Crisps 5 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 3,
       "favourite": true,
       "url": "https://zoom.ocado.com/doritos-chilli-heatwave-tortilla-chips-multipack-crisps-5-per-pack-553533011",
       "direct": true,
@@ -1632,7 +1632,7 @@
     {
       "name": "Green & Black's Organic 85% Dark Chocolate Bar 90g",
       "shop": "zoom",
-      "count": 0,
+      "count": 4,
       "favourite": true,
       "url": "https://zoom.ocado.com/green-blacks-organic-85-dark-chocolate-bar-90g-34818011",
       "direct": true,
@@ -1704,7 +1704,7 @@
     {
       "name": "Griddle Bakery Original Protein Waffles 200g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/griddle-bakery-original-protein-waffles-200g-626981011",
       "direct": true,
@@ -1731,7 +1731,7 @@
     {
       "name": "Heinz No Added Sugar Tinned Baked Beans 415g",
       "shop": "zoom",
-      "count": 0,
+      "count": 2,
       "favourite": true,
       "url": "https://zoom.ocado.com/heinz-no-added-sugar-tinned-baked-beans-415g-365942011",
       "direct": true,
@@ -1903,7 +1903,7 @@
     {
       "name": "Lindahls Protein Cottage Cheese 175g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/lindahls-protein-cottage-cheese-175g-659769011",
       "direct": true,
@@ -1912,7 +1912,7 @@
     {
       "name": "Lindahls Protein Gouda Cheese Slices 125g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/lindahls-protein-gouda-cheese-slices-125g-659770011",
       "direct": true,
@@ -1976,7 +1976,7 @@
     {
       "name": "M&S 4 Peanut Butter Flavour Protein Bars 4 x 55g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/search?entry=M%26S%204%20Peanut%20Butter%20Flavour%20Protein%20Bars%204%20x%2055g",
       "direct": false
@@ -2012,7 +2012,7 @@
     {
       "name": "M&S Buttery Mash Potato 450g",
       "shop": "zoom",
-      "count": 0,
+      "count": 2,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-buttery-mash-potato-450g-516623011",
       "direct": true,
@@ -2067,7 +2067,7 @@
     {
       "name": "M&S Collection British Wiltshire Roast Ham 6 Slices 110g",
       "shop": "zoom",
-      "count": 0,
+      "count": 4,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-collection-british-wiltshire-roast-ham-6-slices-110g-515372011",
       "direct": true,
@@ -2177,7 +2177,7 @@
     {
       "name": "M&S Greek Feta Cheese 200g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-greek-feta-cheese-200g-527748011",
       "direct": true,
@@ -2186,7 +2186,7 @@
     {
       "name": "M&S Grill 2 Beef Burgers 3% Fat 300g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-grill-2-beef-burgers-3-fat-300g-655425011",
       "direct": true,
@@ -2195,7 +2195,7 @@
     {
       "name": "M&S Herby Minted Baby Potatoes 385g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-herby-minted-baby-potatoes-385g-523727011",
       "direct": true,
@@ -2205,7 +2205,7 @@
     {
       "name": "M&S High Protein Salted Caramel Flavour Protein Bars Multipack 4 x 55g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-high-protein-salted-caramel-flavour-protein-bars-multipack-4-x-55g-678050011",
       "direct": true,
@@ -2241,7 +2241,7 @@
     {
       "name": "M&S Layered Peas, Carrots, Sweetcorn & Broccoli 355g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-layered-peas-carrots-sweetcorn-broccoli-355g-516348011",
       "direct": true,
@@ -2250,7 +2250,7 @@
     {
       "name": "M&S Lightly Salted Tortilla Chips 200g",
       "shop": "zoom",
-      "count": 0,
+      "count": 2,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-lightly-salted-tortilla-chips-200g-508936011",
       "direct": true,
@@ -2342,7 +2342,7 @@
     {
       "name": "M&S Perfectly Ripe Medium Hass Avocados 2 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-perfectly-ripe-medium-hass-avocados-2-per-pack-517789011",
       "direct": true,
@@ -2388,7 +2388,7 @@
     {
       "name": "M&S Protein Ball 40g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-protein-ball-40g-649933011",
       "direct": true,
@@ -2424,7 +2424,7 @@
     {
       "name": "M&S Rosa Vine Tomatoes 400g",
       "shop": "zoom",
-      "count": 0,
+      "count": 2,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-rosa-vine-tomatoes-400g-517944011",
       "direct": true,
@@ -2452,7 +2452,7 @@
     {
       "name": "M&S Santini Baby Plum Tomatoes 340g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/m-s-santini-baby-plum-tomatoes-340g-520694011",
       "direct": true,
@@ -2553,7 +2553,7 @@
     {
       "name": "Maple Shack 100% Pure Grade A Maple Syrup 250g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/maple-shack-100-pure-grade-a-maple-syrup-250g-513760011",
       "direct": true,
@@ -2755,7 +2755,7 @@
     {
       "name": "New York Bakery Sesame Bagels 5 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 4,
       "favourite": true,
       "url": "https://zoom.ocado.com/new-york-bakery-sesame-bagels-5-per-pack-34110011",
       "direct": true,
@@ -2839,7 +2839,7 @@
     {
       "name": "Ocado Little Gem Lettuce 2 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/ocado-little-gem-lettuce-2-per-pack-579679011",
       "direct": true,
@@ -2956,7 +2956,7 @@
     {
       "name": "Propercorn Salted Microwave Popcorn 3 x 70g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/propercorn-salted-microwave-popcorn-3-x-70g-457240011",
       "direct": true,
@@ -2965,7 +2965,7 @@
     {
       "name": "Quaker Oat So Simple Golden Syrup Porridge Cereal Pot 57g",
       "shop": "zoom",
-      "count": 0,
+      "count": 4,
       "favourite": true,
       "url": "https://zoom.ocado.com/quaker-oat-so-simple-golden-syrup-porridge-cereal-pot-57g-75081011",
       "direct": true,
@@ -2974,7 +2974,7 @@
     {
       "name": "Quaker Oat So Simple Original Porridge Cereal Pot 45g",
       "shop": "zoom",
-      "count": 0,
+      "count": 2,
       "favourite": true,
       "url": "https://zoom.ocado.com/quaker-oat-so-simple-original-porridge-cereal-pot-45g-75080011",
       "direct": true,
@@ -2992,7 +2992,7 @@
     {
       "name": "Quaker Oats High Protein Original Porridge Pot 49g",
       "shop": "zoom",
-      "count": 0,
+      "count": 3,
       "favourite": true,
       "url": "https://zoom.ocado.com/quaker-oats-high-protein-original-porridge-pot-49g-399258011",
       "direct": true,
@@ -3153,7 +3153,7 @@
     {
       "name": "Snack a Jacks Salt & Vinegar Multipack Rice Cakes Crisps 5 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 3,
       "favourite": true,
       "url": "https://zoom.ocado.com/snack-a-jacks-salt-vinegar-multipack-rice-cakes-crisps-5-per-pack-39722011",
       "direct": true,
@@ -3171,7 +3171,7 @@
     {
       "name": "St Pierre 4 Sliced Brioche Burger Buns 4 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/st-pierre-4-sliced-brioche-burger-buns-4-per-pack-577124011",
       "direct": true,
@@ -3207,7 +3207,7 @@
     {
       "name": "SUN Bites Sweet Chilli High Fibre Snacks Multipack Crisps 6x25g 6 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/sun-bites-sweet-chilli-high-fibre-snacks-multipack-crisps-6x25g-6-per-pack-48040011",
       "direct": true,
@@ -3326,7 +3326,7 @@
     {
       "name": "TREK Salted Caramel Protein Flapjacks Multipack 3 x 50g",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/trek-salted-caramel-protein-flapjacks-3-x-50g-504848011",
       "direct": true,
@@ -3380,7 +3380,7 @@
     {
       "name": "Walkers Max Punchy Paprika Multipack Crisps 6x27g 6 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 2,
       "favourite": true,
       "url": "https://zoom.ocado.com/walkers-max-punchy-paprika-multipack-crisps-6x27g-6-per-pack-394019011",
       "direct": true,
@@ -3389,7 +3389,7 @@
     {
       "name": "Walkers Salt & Shake Multipack Crisps 6x24g 6 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/walkers-salt-shake-multipack-crisps-6x24g-6-per-pack-10355011",
       "direct": true,
@@ -3398,7 +3398,7 @@
     {
       "name": "Walkers Salt & Vinegar Multipack Crisps 6x25g 6 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/walkers-salt-vinegar-multipack-crisps-6x25g-6-per-pack-10379011",
       "direct": true,
@@ -3407,7 +3407,7 @@
     {
       "name": "Walkers Sensations Thai Sweet Chilli Multipack Crisps 5 x 25g 5 per pack",
       "shop": "zoom",
-      "count": 0,
+      "count": 1,
       "favourite": true,
       "url": "https://zoom.ocado.com/walkers-sensations-thai-sweet-chilli-multipack-crisps-5-x-25g-5-per-pack-324415011",
       "direct": true,
@@ -3430,6 +3430,22 @@
       "url": "https://zoom.ocado.com/wheyhey-bbq-chicken-pasta-450g-660149011",
       "direct": true,
       "previewUrl": "https://zoom.ocado.com/productImages/660/660149011_660149011_0_1763981809000_238x238.jpg"
+    },
+    {
+      "name": "M&S Buttery Mash Potato 225g",
+      "shop": "zoom",
+      "count": 2,
+      "favourite": false,
+      "url": "https://zoom.ocado.com/search?entry=M%26S+Buttery+Mash+Potato+225g",
+      "direct": false
+    },
+    {
+      "name": "Ocado Original Breadsticks 125g",
+      "shop": "zoom",
+      "count": 2,
+      "favourite": false,
+      "url": "https://zoom.ocado.com/search?entry=Ocado+Original+Breadsticks+125g",
+      "direct": false
     }
   ]
 }
