@@ -1,6 +1,6 @@
 # Connected setup
 
-Use the [illustrated public setup guide](https://ethansk.github.io/air-frying/setup.html) for compatible hardware, VeSync pairing, iPhone Mirroring, retailer apps and the optional foil-tipped Fingerbot experiment. For this setup, [enable Codex Computer Use](https://ethansk.github.io/air-frying/setup.html#computer-use) to give the agent access to the Mac apps. If another host provides authorised Mac app controls, use its supported route. A skill installation does not itself add device access.
+Use the [illustrated public setup guide](https://ethansk.github.io/agentic-air-frying/setup.html) for compatible hardware, VeSync pairing, iPhone Mirroring, retailer apps and the optional foil-tipped Fingerbot experiment. For this setup, [enable Codex Computer Use](https://ethansk.github.io/agentic-air-frying/setup.html#computer-use) to give the agent access to the Mac apps. If another host provides authorised Mac app controls, use its supported route. A skill installation does not itself add device access.
 
 ## Find recent orders
 
@@ -11,10 +11,10 @@ Use the [illustrated public setup guide](https://ethansk.github.io/air-frying/se
 
 ## Prepare and verify a COSORI Pro Smart cook
 
-1. Confirm the active appliance and its zones. For the Turbo Tower Pro Smart, the top and bottom drawers can use separate programs. Sync coordinates finish times and Match copies settings. Use the [guide for the exact model](https://ethansk.github.io/air-frying/setup.html#fryer) to confirm capacity, mode and controls.
+1. Confirm the active appliance and its zones. For the Turbo Tower Pro Smart, the top and bottom drawers can use separate programs. Sync coordinates finish times and Match copies settings. Use the [guide for the exact model](https://ethansk.github.io/agentic-air-frying/setup.html#fryer) to confirm capacity, mode and controls.
 2. Prepare settings only for a cook the user authorised and confirmed loaded. Use the paired VeSync app through a supported interface. Check the mode, temperature, time and Sync/Match for each intended drawer before sending. Confirm an unused zone is actually deselected on the fryer when doing a single-drawer cook. If the app cannot verify that, have the cook check the panel.
 3. Submit the confirmed program once, then read back the result. If the submission outcome is unclear, inspect the current state before trying again. Stop network actions on a rate limit. Keep the staged program if the physical Start step is still pending.
 4. The cook presses Start/Pause by hand at the appliance. Read back **Cooking** and the actual countdown for the expected zones when available. A shorter synced program can remain on Hold. Report prepared, started and finished states separately. The timer does not confirm doneness.
-5. Keep automatic Start out of the supported cooking flow. The [foil and Blu Tack prototype](https://ethansk.github.io/air-frying/setup.html#fingerbot) is optional fit and touch experimentation. A manual foil touch was reported. A mounted automatic Start has no verified end-to-end result, and the model calls for manual Start.
+5. Keep automatic Start out of the supported cooking flow. The [foil and Blu Tack prototype](https://ethansk.github.io/agentic-air-frying/setup.html#fingerbot) is optional fit and touch experimentation. A manual foil touch was reported. A mounted automatic Start has no verified end-to-end result, and the model calls for manual Start.
 
-[Public grocery examples](https://ethansk.github.io/air-frying/setup.html#common-orders) are inspiration for choosing a meal. They do not describe the current user's orders or supply a cooking preset.
+[Public grocery examples](https://ethansk.github.io/agentic-air-frying/setup.html#common-orders) are inspiration for choosing a meal. They do not describe the current user's orders or supply a cooking preset.

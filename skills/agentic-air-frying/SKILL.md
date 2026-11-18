@@ -1,9 +1,9 @@
 ---
-name: air-frying
+name: agentic-air-frying
 description: Plan single- or dual-drawer air-fryer meals from recent grocery orders or ingredients on hand. Use to plan drawer placement, sync settings, check Zapp or Zoom by Ocado through iPhone Mirroring, or prepare and monitor an authorised COSORI cook in VeSync.
 ---
 
-# Air Frying
+# Agentic Air Frying
 
 Lead with what goes in each drawer. Plan for one load with no mid-cook additions, turning, or shaking when the food directions and the desired result allow it. Keep the user's involvement low by making safe, clearly stated assumptions and asking only for details that materially change the plan.
 
