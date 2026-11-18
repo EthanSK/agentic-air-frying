@@ -1,0 +1,4 @@
+interface:
+  display_name: "Air Frying"
+  short_description: "Plan meals for one or two air fryer drawers"
+  default_prompt: "Use $air-frying to plan what goes in each drawer and help both finish together."
