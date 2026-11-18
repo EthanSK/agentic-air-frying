@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ethan’s Common Orders — Air Frying</title>
+  <meta name="description" content="Browse Ethan’s saved favourites and most frequently ordered groceries from Zapp and Zoom by Ocado.">
+  <meta name="theme-color" content="#f0ebfa">
+  <link rel="canonical" href="https://ethansk.github.io/air-frying/favourites.html">
+  <link rel="icon" href="./assets/icon.png" type="image/png">
+  <link rel="stylesheet" href="./styles.css?v=5">
+  <script type="module" src="./favourites.js?v=1"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="shell top">
+    <a class="brand" href="./"><span class="basket-mark" aria-hidden="true"></span> Air Frying</a>
+    <nav aria-label="Main">
+      <a href="./#setup">My Fryer Setup</a>
+      <a href="./favourites.html" aria-current="page">Common Orders</a>
+      <a href="./#install">Install</a>
+      <a href="https://github.com/EthanSK/air-frying">GitHub <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main id="main" class="shell">
+    <section class="catalog-intro" aria-labelledby="catalog-title">
+      <h1 id="catalog-title">Ethan’s Common Orders</h1>
+      <p class="intro">Saved favourites and repeat buys from Zapp and Zoom by Ocado, ranked by delivered orders.</p>
+      <p class="catalog-method">Each count shows the number of checked orders containing that product. A zero means it did not appear in the orders checked. The photos illustrate food categories. Follow the shop links for exact packs and availability.</p>
+    </section>
+    <section class="catalog-browser" aria-label="Browse common orders" data-favourites-list>
+      <p class="catalog-coverage" data-coverage></p>
+      <div class="catalog-controls" hidden>
+        <label>Find a product <input type="search" name="product" autocomplete="off"></label>
+        <div class="catalog-filter">
+          <label for="catalog-shop">Shop</label>
+          <select name="shop" id="catalog-shop">
+            <option value="">Both shops</option>
+            <option value="zapp">Zapp</option>
+            <option value="zoom">Zoom by Ocado</option>
+          </select>
+        </div>
+        <label class="favourites-toggle"><input type="checkbox" name="favourites"> Favourites only</label>
+      </div>
+      <p class="catalog-status" role="status">Loading favourites…</p>
+      <ul class="catalog-grid"></ul>
+      <noscript><p>Enable JavaScript to filter the catalogue, or <a href="./favourites.json">download the product list</a>.</p></noscript>
+    </section>
+  </main>
+
+  <footer class="shell foot">
+    <a class="brand" href="./"><span class="basket-mark" aria-hidden="true"></span> Air Frying</a>
+    <nav aria-label="Project">
+      <a href="https://www.justzapp.com/">Zapp <span aria-hidden="true">↗</span></a>
+      <a href="https://zoom.ocado.com/">Zoom by Ocado <span aria-hidden="true">↗</span></a>
+      <a href="https://github.com/EthanSK/air-frying">GitHub <span aria-hidden="true">↗</span></a>
+    </nav>
+  </footer>
+</body>
+</html>

@@ -14,7 +14,8 @@
   <meta property="og:image" content="https://ethansk.github.io/air-frying/assets/salmon-potato-slices.webp">
   <meta property="og:image:alt" content="Round roasted potato slices and cherry tomatoes in the top air fryer drawer, with salmon and asparagus in the bottom drawer.">
   <link rel="icon" href="./assets/icon.png" type="image/png">
-  <link rel="stylesheet" href="./styles.css?v=4">
+  <link rel="stylesheet" href="./styles.css?v=5">
+  <script type="module" src="./favourites.js?v=1"></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -23,6 +24,7 @@
     <nav aria-label="Main">
       <a href="#how-it-works">How It Works</a>
       <a href="#setup">My Fryer Setup</a>
+      <a href="#common-orders">Common Orders</a>
       <a href="#install">Install</a>
       <a href="https://github.com/EthanSK/air-frying">GitHub <span aria-hidden="true">↗</span></a>
     </nav>
@@ -73,7 +75,7 @@
         <h2 id="setup-title">My Fryer Setup</h2>
         <div class="actions">
           <a class="button" href="./setup.html">Full Setup Guide <span aria-hidden="true">→</span></a>
-          <a class="text-link" href="./setup.html#common-orders">Ethan’s Common Orders <span aria-hidden="true">↗</span></a>
+          <a class="text-link" href="#common-orders">Ethan’s Common Orders <span aria-hidden="true">↓</span></a>
         </div>
       </div>
       <div class="setup-summary-grid">
@@ -99,6 +101,17 @@
           </div>
         </article>
       </div>
+    </section>
+
+    <section id="common-orders" class="catalog-preview" aria-labelledby="orders-title" data-favourites-preview>
+      <div class="setup-summary-heading">
+        <div>
+          <h2 id="orders-title">Ethan’s Common Orders</h2>
+          <p>Regular picks from Zapp and Zoom by Ocado. Counts show how often they appeared in the orders checked.</p>
+        </div>
+        <a class="button" href="./favourites.html">All Favourites &amp; Repeat Buys <span aria-hidden="true">→</span></a>
+      </div>
+      <ul class="catalog-gallery" aria-label="Most ordered groceries"></ul>
     </section>
 
     <section id="example" class="example" aria-labelledby="example-title">
