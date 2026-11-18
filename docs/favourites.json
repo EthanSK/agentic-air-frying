@@ -76,7 +76,8 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-10698",
       "direct": true,
-      "airFryer": true
+      "airFryer": true,
+      "packPhoto": "5000116112050"
     },
     {
       "name": "BirdsEye Chicken Nuggets 190g",
@@ -1091,7 +1092,8 @@
       "favourite": true,
       "url": "https://zoom.ocado.com/cauldron-middle-eastern-falafel-200g-55287011",
       "direct": true,
-      "airFryer": true
+      "airFryer": true,
+      "packPhoto": "5013683305589"
     },
     {
       "name": "Cauldron Vegan Middle Eastern Falafel 200g",
@@ -1100,7 +1102,8 @@
       "favourite": true,
       "url": "https://www.justzapp.com/product/GB-13326",
       "direct": true,
-      "airFryer": true
+      "airFryer": true,
+      "packPhoto": "5013683305589"
     },
     {
       "name": "Cavolo Nero 200g",
@@ -3075,6 +3078,8 @@
   "photoCredits": {
     "5010228001869": "macrofactor",
     "5010228006963": "prepperapp",
-    "5034467000216": "macrofactor"
+    "5034467000216": "macrofactor",
+    "5000116112050": "kiliweb",
+    "5013683305589": "notgagarin"
   }
 }
