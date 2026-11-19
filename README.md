@@ -38,7 +38,7 @@ If order lookup is unavailable, share the food, model and packet directions when
 
 ## My Fryer Setup
 
-The [illustrated setup guide](https://ethansk.github.io/agentic-air-frying/setup.html) covers the stacked COSORI Turbo Tower Pro Smart, VeSync pairing, Codex Computer Use on a Mac, iPhone Mirroring, a first cook and the foil-and-Blu-Tack Fingerbot experiment. [Ethan’s common orders](https://ethansk.github.io/agentic-air-frying/favourites.html) shows a dated snapshot of favourites and repeat buys with observed order counts and public shop links.
+The [illustrated setup guide](https://ethansk.github.io/agentic-air-frying/setup.html) covers the stacked COSORI Turbo Tower Pro Smart, VeSync pairing, Codex Computer Use on a Mac, iPhone Mirroring, a first cook and the foil-and-Blu-Tack Fingerbot experiment. [My Common Orders](https://ethansk.github.io/agentic-air-frying/favourites.html) shows a dated snapshot of favourites and repeat buys with observed order counts and public shop links.
 
 The optional [connected workflow](skills/agentic-air-frying/references/connected-setup.md) uses your own signed-in apps. COSORI calls for Start at the appliance. Automatic Start with the experimental Fingerbot assembly remains unverified.
 
