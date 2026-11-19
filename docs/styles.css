@@ -132,8 +132,6 @@ nav a[aria-current="page"] { color: var(--paprika); text-decoration: underline; 
 .eyebrow span { width: 1.35rem; height: 2px; background: var(--paprika); flex-shrink: 0; }
 .hero h1 { font-size: clamp(3.5rem, 6.8vw, 6.2rem); }
 .hero em { display: block; color: var(--paprika); font-style: normal; text-wrap: balance; }
-.hero-tagline { margin-top: 1.25rem; font-size: clamp(1.13rem, 2vw, 1.45rem); font-weight: 700; }
-.hero-tagline + .intro { margin-top: .5rem; }
 
 .intro {
   margin-top: 1.55rem;
