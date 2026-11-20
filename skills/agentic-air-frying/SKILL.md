@@ -11,6 +11,8 @@ Lead with what goes in each drawer. Plan for one load with no mid-cook additions
 
 For a new dinner or stock question, use the cook’s authorised recent grocery orders and any available meal or leftovers notes before asking them to list ingredients. If their setup has iPhone Mirroring, check their own signed-in Zapp or Zoom by Ocado app as described in [connected setup](references/connected-setup.md). Treat purchases as clues to what may be left. If lookup is unavailable, use the receipt, package or ingredients the cook supplies.
 
+When a meal used food from a multi-serving pack and the portion is unknown, keep the remaining amount uncertain. If the amount matters for the next meal or stock estimate, ask whether they used the whole pack or have some left. Include vegetables they have on hand when planning a meal.
+
 ## Plan the load
 
 1. Establish the exact food and its state (fresh, chilled, or frozen), amount, approximate thickness, and desired result. Use details already supplied. Check the exact product's package or manufacturer directions when available. Identify the fryer model or known drawer layout if that affects what fits or which functions can be used.
