@@ -48,7 +48,7 @@ The optional [connected workflow](skills/agentic-air-frying/references/connected
 
 ## Updates
 
-The skill can check this repository when used and at most weekly after a successful check. The check uses Python 3, keeps its state on your machine, and can be turned off. Your assistant asks before applying any update. See the [update procedure](skills/agentic-air-frying/references/public-updates.md) for details.
+When you use the skill, your assistant checks whether it is due to look for a newer version. After a successful check, it waits a week before checking again. The check uses Python 3, keeps its state on your machine, and can be turned off. Your assistant looks for changes to the skill folder and asks before applying an update. See the [update procedure](skills/agentic-air-frying/references/public-updates.md) for details.
 
 ## Project Files
 
