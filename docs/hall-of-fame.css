@@ -1,0 +1,213 @@
+.hall {
+  padding-bottom: clamp(3rem, 7vw, 6rem);
+}
+
+.hall-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(17rem, .55fr);
+  align-items: end;
+  gap: 1.75rem 3rem;
+  padding-block: clamp(1.65rem, 3.6vw, 3.5rem);
+}
+
+.hall-hero .intro {
+  margin: 0 0 .8rem;
+  max-width: 29ch;
+}
+
+.hall h2 {
+  font-size: clamp(2.35rem, 4.7vw, 3.6rem);
+}
+
+.hall-featured > h2 {
+  margin-bottom: 1.15rem;
+}
+
+.hall-feature-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  gap: 1px;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+  border-radius: .85rem;
+  background: var(--rule);
+}
+
+.hall-plate {
+  position: relative;
+  min-width: 0;
+  aspect-ratio: 3 / 2;
+  align-self: stretch;
+  background: #3b2e40;
+}
+
+.hall-plate img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hall-plate figcaption {
+  position: absolute;
+  bottom: .75rem;
+  left: .75rem;
+  border-radius: .26rem;
+  padding: .22rem .56rem;
+  background: var(--ink);
+  color: var(--white);
+  font-size: .75rem;
+}
+
+.hall-tasting-notes {
+  display: grid;
+  align-content: center;
+  padding: clamp(1.15rem, 2.4vw, 2rem);
+  background: var(--white);
+}
+
+.hall-pick {
+  scroll-margin-top: .5rem;
+}
+
+.hall-pick + .hall-pick {
+  margin-top: .85rem;
+  border-top: 1px solid var(--rule);
+  padding-top: .85rem;
+}
+
+.hall-pick h3, .hall-recipe h3 {
+  font: 800 clamp(1.65rem, 3.05vw, 2.45rem) / 1.05 var(--display);
+  text-wrap: balance;
+}
+
+.hall-pick h3 {
+  color: var(--paprika);
+}
+
+.hall-pick p {
+  margin-block: .52rem .75rem;
+}
+
+.hall-pick a {
+  display: inline-flex;
+  align-items: center;
+  gap: .38em;
+  min-height: 44px;
+}
+
+.hall-recipes {
+  margin-top: clamp(2.7rem, 6vw, 5rem);
+}
+
+.hall-recipes-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  justify-content: space-between;
+  gap: .85rem 2rem;
+  margin-bottom: 1.25rem;
+  border-top: 1px solid var(--rule);
+  padding-top: 1.35rem;
+}
+
+.hall-recipes-header > p {
+  max-width: 52ch;
+  color: var(--muted);
+}
+
+.hall-recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.hall-recipe {
+  border: 1px solid var(--rule);
+  border-radius: .65rem;
+  background: var(--white);
+  padding: clamp(1rem, 3vw, 1.75rem);
+}
+
+.hall-recipe > h3 + p {
+  margin-top: .45rem;
+  color: var(--muted);
+}
+
+.hall-recipe-shared {
+  margin-bottom: 1rem;
+  border-top: 4px solid var(--paprika);
+}
+
+.hall-recipe:target {
+  outline: 2px solid var(--paprika);
+  outline-offset: 4px;
+}
+
+.hall-settings {
+  display: grid;
+  gap: .65rem;
+  margin: 1rem 0;
+}
+
+.hall-settings > div {
+  display: grid;
+  grid-template-columns: minmax(6rem, .28fr) minmax(0, 1fr);
+  gap: .25rem 1rem;
+  padding: .62rem .8rem;
+  border-radius: .32rem;
+  background: var(--paper);
+}
+
+.hall-settings dt {
+  font-weight: 700;
+}
+
+.hall-settings dd {
+  margin: 0;
+}
+
+.hall-settings strong, .hall-settings dd span {
+  display: block;
+}
+
+.hall-settings dd span {
+  color: var(--muted);
+}
+
+.hall-recipe ol {
+  display: grid;
+  gap: .38rem;
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.hall-note {
+  margin-top: .9rem;
+  border-top: 1px solid var(--rule);
+  padding-top: .8rem;
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+@media (max-width: 815px) {
+  .hall-hero, .hall-feature-grid, .hall-recipe-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hall-hero {
+    gap: 1rem;
+  }
+
+  .hall-hero .intro {
+    max-width: 36ch;
+  }
+}
+
+@media (max-width: 435px) {
+  .hall-settings > div {
+    grid-template-columns: 1fr;
+  }
+}

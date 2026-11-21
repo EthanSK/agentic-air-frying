@@ -2,7 +2,7 @@
 
 **Finally. The agent can cook for you.** Agentic Air Frying gives your AI assistant a workflow for planning a whole air-fryer meal. It starts with what to put in each drawer, then works out the settings, timing, and when to check the food.
 
-[Project website](https://ethansk.github.io/agentic-air-frying/) · [My Fryer Setup](https://ethansk.github.io/agentic-air-frying/#setup) · [Read the skill](skills/agentic-air-frying/SKILL.md) · [Download ZIP](https://github.com/EthanSK/agentic-air-frying/archive/refs/heads/main.zip)
+[Project website](https://ethansk.github.io/agentic-air-frying/) · [My Fryer Setup](https://ethansk.github.io/agentic-air-frying/#setup) · [Hall of Fame](https://ethansk.github.io/agentic-air-frying/hall-of-fame.html) · [Read the skill](skills/agentic-air-frying/SKILL.md) · [Download ZIP](https://github.com/EthanSK/agentic-air-frying/archive/refs/heads/main.zip)
 
 ## What It Does
 
@@ -43,6 +43,10 @@ The [illustrated setup guide](https://ethansk.github.io/agentic-air-frying/setup
 ### My Common Orders
 
 [My Common Orders](https://ethansk.github.io/agentic-air-frying/favourites.html) shows a dated snapshot of favourites and repeat buys with public shop links. On each refresh, rank Zoom by Ocado products by the number of verified deliveries containing that exact product over the preceding three calendar months. Count each product once per order and keep saved favourites visible even if they have zero orders in the window. The page states the dates and number of orders checked.
+
+### Hall of Fame
+
+The [Hall of Fame](https://ethansk.github.io/agentic-air-frying/hall-of-fame.html) collects Ethan’s favourites and the drawer settings behind them. It is generated from the curated private cookbook with `python3 scripts/export-hall-of-fame.py /path/to/hall-of-fame.json`. Add `--check` to compare the source with the published HTML. Edit the cookbook to update recipes.
 
 The optional [connected workflow](skills/agentic-air-frying/references/connected-setup.md) uses your own signed-in apps. COSORI calls for Start at the appliance.
 
